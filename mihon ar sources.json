@@ -1,51 +1,767 @@
-"name": "Tachiyomi: Team-X",
-        "pkg": "com.olympustaff",
-        "apk": "olympustaff-team-x-v1.4.40.apk",
+[
+  {
+    "name": "Tachiyomi: Area Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.areamanga",
+    "apk": "tachiyomi-ar.areamanga-v1.4.31.apk",
+    "lang": "ar",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "أريا مانجا",
         "lang": "ar",
-        "code": 1,
-        "version": "1.4.40",
-        "nsfw": 0,
-        "sources": [
-            {
-                "name": "Team-X",
-                "lang": "ar",
-                "id": "7816508865953731299",
-                "baseUrl": "https://olympustaff.com"
-            }
-        ]
-    },
-    {
-        "name": "Tachiyomi: اسم الإضافة الثانية",
-        "pkg": "eu.kanade.tachiyomi.extension.all.اسم_الحزمة_الثانية",
-        "apk": "اسم_الملف_الثاني.apk",
-        "lang": "اللغة",
-        "code": رقم_الإصدار_البرمجي_الثاني,
-        "version": "رقم_الإصدار_الثاني",
-        "nsfw": 0,
-        "sources": [
-            {
-                "name": "اسم_المصدر_الثاني",
-                "lang": "لغة_المصدر_الثاني",
-                "id": "معرف_المصدر_الثاني",
-                "baseUrl": "رابط_المصدر_الثاني"
-            }
-        ]
-    }
-]    ]
-    }
-]}
-        ]
-    }
-]}
-]      ]
-    }
-]          }
-        ]
-    }
-]�ني"
-            }
-        ]
-    }
-]      ]
-    }
-]8167173986295647123","baseUrl":"https://akuma.moe"},{"name":"Akuma","lang":"es","id":"5371778608318819884","baseUrl":"https://akuma.moe"},{"name":"Akuma","lang":"eo","id":"77326570497325152","baseUrl":"https://akuma.moe"},{"name":"Akuma","lang":"fr","id":"9222445553932717105","baseUrl":"https://akuma.moe"},{"name":"Akuma","lang":"it","id":"5085561039221748061","baseUrl":"https://akuma.moe"},{"name":"Akuma","lang":"hi","id":"1099564256126272699","baseUrl":"https://akuma.moe"},{"name":"Akuma","lang":"hu","id":"1422819830508615430","baseUrl":"https://akuma.moe"},{"name":"Akuma","lang":"nl","id":"5610655855358487221","baseUrl":"https://akuma.moe"},{"name":"Akuma","lang":"pl","id":"8163761313345392776","baseUrl":"https://akuma.moe"},{"name":"Akuma","lang":"pt","id":"5253884715906393116","baseUrl":"https://akuma.moe"},{"name":"Akuma","lang":"vi","id":"1740877429814102450","baseUrl":"https://akuma.moe"},{"name":"Akuma","lang":"tr","id":"2760962895634785428","baseUrl":"https://akuma.moe"},{"name":"Akuma","lang":"ru","id":"7045343433771927648","baseUrl":"https://akuma.moe"},{"name":"Akuma","lang":"uk","id":"5229751861519354976","baseUrl":"https://akuma.moe"},{"name":"Akuma","lang":"ar","id":"8600626646399125374","baseUrl":"https://akuma.moe"},{"name":"Akuma","lang":"ko","id":"8353987132172753017","baseUrl":"https://akuma.moe"},{"name":"Akuma","lang":"zh","id":"7558912456429140642","baseUrl":"https://akuma.moe"},{"name":"Akuma","lang":"ja","id":"5330127039501257395","baseUrl":"https://akuma.moe"}]},{"name":"Tachiyomi: AsmHentai","pkg":"eu.kanade.tachiyomi.extension.all.asmhentai","apk":"tachiyomi-all.asmhentai-v1.4.6.apk","lang":"all","code":6,"version":"1.4.6","nsfw":1,"sources":[{"name":"AsmHentai","lang":"en","id":"6135783261825346877","baseUrl":"https://asmhentai.com"},{"name":"AsmHentai","lang":"ja","id":"7717437664180966273","baseUrl":"https://asmhentai.com"},{"name":"AsmHentai","lang":"zh","id":"2819783147032745073","baseUrl":"https://asmhentai.com"},{"name":"AsmHentai","lang":"all","id":"7786528235956058474","baseUrl":"https://asmhentai.com"}]},{"name":"Tachiyomi: Bato.to","pkg":"eu.kanade.tachiyomi.extension.all.batoto","apk":"tachiyomi-all.batoto-v1.4.46.apk","lang":"all","code":46,"version":"1.4.46","nsfw":1,"sources":[{"name":"Bato.to","lang":"all","id":"4531444389842992129","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"en","id":"7890050626002177109","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ar","id":"5096384382752696500","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"bg","id":"6495955027968241042","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"zh","id":"3158884414181268012","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"cs","id":"7576440018916883094","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"da","id":"5316229865560945519","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"nl","id":"2451829407813501910","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"fil","id":"313424729392609270","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"fi","id":"1251974539278082369","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"fr","id":"5836611700806032846","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"de","id":"139923318887989403","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"el","id":"8473797648002215114","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"he","id":"2408078218204857839","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"hi","id":"7084618587403216116","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"hu","id":"4530528320166985351","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"id","id":"1720762928205210073","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"it","id":"2160637426591463299","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ja","id":"5203173367987472935","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ko","id":"8427126052180576160","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ms","id":"5990851390838920547","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"pl","id":"3394902802486008664","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"pt","id":"6179954312892676695","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"pt-BR","id":"3484603489360202582","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ro","id":"5145326243818977877","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ru","id":"5188408707919914484","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"es","id":"6204540321264480489","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"es-419","id":"7185350469868201379","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"sv","id":"8913559243351013088","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"th","id":"2706040171335467974","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"tr","id":"6468780937168595917","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"uk","id":"1782621454240367603","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"vi","id":"3164440079022386695","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"af","id":"9193031427501250739","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"sq","id":"6847493053848422645","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"am","id":"2526577153570564673","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"hy","id":"1586739058301487676","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"az","id":"713056016405537102","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"be","id":"7232505995053152192","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"bn","id":"3402500071662542228","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"bs","id":"6908072148468152785","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"my","id":"5762198617335159887","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"km","id":"6796421298740947063","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ca","id":"1392737883785118332","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ceb","id":"5837595011776494775","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"zh-Hans","id":"2818874445640189582","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"zh-Hant","id":"38886079663327225","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"hr","id":"7668596971407381245","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"eo","id":"3509865042379188717","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"et","id":"3006949234613526276","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"fo","id":"7703342981951715697","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ka","id":"5905178459829728484","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"gn","id":"4894494172631551657","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"gu","id":"4891408516910497422","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ht","id":"8773112916243804182","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ha","id":"8106799273220933842","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"is","id":"2566480683201153375","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ig","id":"3424308522705464084","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ga","id":"3707936942181329862","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"jv","id":"6913455010116693655","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"kn","id":"1088655658033412867","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"kk","id":"4920750007190577961","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ku","id":"5924797894030210791","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ky","id":"191250206471387059","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"lo","id":"374730826849442838","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"lv","id":"7483906778681041617","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"lt","id":"2909322037877472903","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"lb","id":"7998953198185983599","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"mk","id":"4493782214399724320","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"mg","id":"7844022624810291146","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ml","id":"3443092856670936701","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"mt","id":"7404477799743142598","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"mi","id":"8225972509362693639","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"mr","id":"6030352007472109485","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"mo","id":"8871355786189601023","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"mn","id":"1683078263344915307","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ne","id":"128549604427027000","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"no","id":"3907280050995528877","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ny","id":"5715855562377571991","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ps","id":"6105060607877949219","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"fa","id":"1302226087224798096","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"rm","id":"8327243820444225063","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"sm","id":"2859258045373504715","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"sr","id":"6589258274800936036","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"sh","id":"2675056792049767704","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"st","id":"7963579117812866356","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"sn","id":"2403628417982139515","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"sd","id":"7126242426383705161","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"si","id":"2913942844788726362","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"sk","id":"7182321933689697136","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"sl","id":"8410771330361157651","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"so","id":"2909968758031724143","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"sw","id":"1981693893234457639","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"tg","id":"8403246223033985015","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ta","id":"8440188015298648289","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ti","id":"5554111601105349413","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"to","id":"2410241309695200602","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"tk","id":"3635004776434724843","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"ur","id":"7602124517732860619","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"uz","id":"4555523281386098571","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"yo","id":"727983903143794104","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"zu","id":"3786926370127246407","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"other","id":"1897863245819012494","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"eu","id":"3468748569008741067","baseUrl":"https://zbato.org"},{"name":"Bato.to","lang":"pt-PT","id":"2823929639670313992","baseUrl":"https://zbato.org"}]},{"name":"Tachiyomi: 3600000 Beauty","pkg":"eu.kanade.tachiyomi.extension.all.beauty3600000","apk":"tachiyomi-all.beauty3600000-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":1,"sources":[{"name":"3600000 Beauty","lang":"all","id":"5498091984644576825","baseUrl":"https://3600000.xyz"}]},{"name":"Tachiyomi: Buon Dua","pkg":"eu.kanade.tachiyomi.extension.all.buondua","apk":"tachiyomi-all.buondua-v1.4.2.apk","lang":"all","code":2,"version":"1.4.2","nsfw":1,"sources":[{"name":"Buon Dua","lang":"all","id":"1435103006121310663","baseUrl":"https://buondua.com"}]},{"name":"Tachiyomi: Comic Fury","pkg":"eu.kanade.tachiyomi.extension.all.comicfury","apk":"tachiyomi-all.comicfury-v1.4.3.apk","lang":"all","code":3,"version":"1.4.3","nsfw":1,"sources":[{"name":"Comic Fury","lang":"all","id":"5182817189941556265","baseUrl":"https://comicfury.com"},{"name":"Comic Fury","lang":"en","id":"6251704791239468278","baseUrl":"https://comicfury.com"},{"name":"Comic Fury","lang":"es","id":"4984634867953711392","baseUrl":"https://comicfury.com"},{"name":"Comic Fury","lang":"pt-BR","id":"8655141799625656041","baseUrl":"https://comicfury.com"},{"name":"Comic Fury","lang":"de","id":"7464199493988606175","baseUrl":"https://comicfury.com"},{"name":"Comic Fury","lang":"fr","id":"2880365189708146138","baseUrl":"https://comicfury.com"},{"name":"Comic Fury","lang":"it","id":"4412608991854703246","baseUrl":"https://comicfury.com"},{"name":"Comic Fury","lang":"pl","id":"7974978914502436971","baseUrl":"https://comicfury.com"},{"name":"Comic Fury","lang":"ja","id":"8819952928004218630","baseUrl":"https://comicfury.com"},{"name":"Comic Fury","lang":"zh","id":"6187036261988654925","baseUrl":"https://comicfury.com"},{"name":"Comic Fury","lang":"ru","id":"2995199135797572970","baseUrl":"https://comicfury.com"},{"name":"Comic Fury","lang":"fi","id":"6411256237640188165","baseUrl":"https://comicfury.com"},{"name":"Comic Fury","lang":"other","id":"501810935334397655","baseUrl":"https://comicfury.com"},{"name":"Comic Fury (No Text)","lang":"other","id":"2537678488019181229","baseUrl":"https://comicfury.com"}]},{"name":"Tachiyomi: Comick","pkg":"eu.kanade.tachiyomi.extension.all.comickfun","apk":"tachiyomi-all.comickfun-v1.4.51.apk","lang":"all","code":51,"version":"1.4.51","nsfw":1,"sources":[{"name":"Comick","lang":"all","id":"982606170401027267","baseUrl":"https://comick.io"},{"name":"Comick","lang":"en","id":"2971557565147974499","baseUrl":"https://comick.io"},{"name":"Comick","lang":"pt-BR","id":"8729626158695297897","baseUrl":"https://comick.io"},{"name":"Comick","lang":"ru","id":"5846182885417171581","baseUrl":"https://comick.io"},{"name":"Comick","lang":"fr","id":"9126078936214680667","baseUrl":"https://comick.io"},{"name":"Comick","lang":"es-419","id":"3182432228546767958","baseUrl":"https://comick.io"},{"name":"Comick","lang":"pl","id":"7005108854993254607","baseUrl":"https://comick.io"},{"name":"Comick","lang":"tr","id":"7186425300860782365","baseUrl":"https://comick.io"},{"name":"Comick","lang":"it","id":"8807318985460553537","baseUrl":"https://comick.io"},{"name":"Comick","lang":"es","id":"9052019484488287695","baseUrl":"https://comick.io"},{"name":"Comick","lang":"id","id":"5506707690027487154","baseUrl":"https://comick.io"},{"name":"Comick","lang":"hu","id":"7838940669485160901","baseUrl":"https://comick.io"},{"name":"Comick","lang":"vi","id":"9191587139933034493","baseUrl":"https://comick.io"},{"name":"Comick","lang":"zh-Hant","id":"3140511316190656180","baseUrl":"https://comick.io"},{"name":"Comick","lang":"ar","id":"8266599095155001097","baseUrl":"https://comick.io"},{"name":"Comick","lang":"de","id":"7552236568334706863","baseUrl":"https://comick.io"},{"name":"Comick","lang":"zh-Hans","id":"1071494508319622063","baseUrl":"https://comick.io"},{"name":"Comick","lang":"ca","id":"2159382907508433047","baseUrl":"https://comick.io"},{"name":"Comick","lang":"bg","id":"8981320463367739957","baseUrl":"https://comick.io"},{"name":"Comick","lang":"th","id":"4246541831082737053","baseUrl":"https://comick.io"},{"name":"Comick","lang":"fa","id":"3146252372540608964","baseUrl":"https://comick.io"},{"name":"Comick","lang":"uk","id":"3505068018066717349","baseUrl":"https://comick.io"},{"name":"Comick","lang":"mn","id":"2147260678391898600","baseUrl":"https://comick.io"},{"name":"Comick","lang":"ro","id":"6676949771764486043","baseUrl":"https://comick.io"},{"name":"Comick","lang":"he","id":"5354540502202034685","baseUrl":"https://comick.io"},{"name":"Comick","lang":"ms","id":"4731643595200952045","baseUrl":"https://comick.io"},{"name":"Comick","lang":"tl","id":"8549617092958820123","baseUrl":"https://comick.io"},{"name":"Comick","lang":"ja","id":"8288710818308434509","baseUrl":"https://comick.io"},{"name":"Comick","lang":"hi","id":"5176570178081213805","baseUrl":"https://comick.io"},{"name":"Comick","lang":"my","id":"9199495862098963317","baseUrl":"https://comick.io"},{"name":"Comick","lang":"ko","id":"3493720175703105662","baseUrl":"https://comick.io"},{"name":"Comick","lang":"cs","id":"2651978322082769022","baseUrl":"https://comick.io"},{"name":"Comick","lang":"pt","id":"4153491877797434408","baseUrl":"https://comick.io"},{"name":"Comick","lang":"nl","id":"6104206360977276112","baseUrl":"https://comick.io"},{"name":"Comick","lang":"sv","id":"979314012722687145","baseUrl":"https://comick.io"},{"name":"Comick","lang":"bn","id":"3598159956413889411","baseUrl":"https://comick.io"},{"name":"Comick","lang":"no","id":"5932005504194733317","baseUrl":"https://comick.io"},{"name":"Comick","lang":"lt","id":"1792260331167396074","baseUrl":"https://comick.io"},{"name":"Comick","lang":"el","id":"6190162673651111756","baseUrl":"https://comick.io"},{"name":"Comick","lang":"sr","id":"571668187470919545","baseUrl":"https://comick.io"},{"name":"Comick","lang":"da","id":"7137437402245830147","baseUrl":"https://comick.io"}]},{"name":"Tachiyomi: Comico","pkg":"eu.kanade.tachiyomi.extension.all.comico","apk":"tachiyomi-all.comico-v1.4.5.apk","lang":"all","code":5,"version":"1.4.5","nsfw":1,"sources":[{"name":"POCKET COMICS","lang":"en","id":"4823827973628449637","baseUrl":"https://www.pocketcomics.com"},{"name":"POCKET COMICS","lang":"zh","id":"6417478599890788940","baseUrl":"https://www.pocketcomics.com"},{"name":"コミコ","lang":"ja","id":"4991718230921189832","baseUrl":"https://www.comico.jp"},{"name":"코미코","lang":"ko","id":"7725570951439346591","baseUrl":"https://www.comico.kr"}]},{"name":"Tachiyomi: ComicsKingdom","pkg":"eu.kanade.tachiyomi.extension.all.comicskingdom","apk":"tachiyomi-all.comicskingdom-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":0,"sources":[{"name":"Comics Kingdom","lang":"en","id":"3350274514125477391","baseUrl":"https://wp.comicskingdom.com"},{"name":"Comics Kingdom","lang":"es","id":"6467305425630534148","baseUrl":"https://wp.comicskingdom.com"}]},{"name":"Tachiyomi: Comics Valley","pkg":"eu.kanade.tachiyomi.extension.all.comicsvalley","apk":"tachiyomi-all.comicsvalley-v1.4.40.apk","lang":"all","code":40,"version":"1.4.40","nsfw":1,"sources":[{"name":"Comics Valley","lang":"all","id":"1103204227230640533","baseUrl":"https://comicsvalley.com"}]},{"name":"Tachiyomi: Comicz.net v2","pkg":"eu.kanade.tachiyomi.extension.all.comicznetv2","apk":"tachiyomi-all.comicznetv2-v1.4.38.apk","lang":"all","code":38,"version":"1.4.38","nsfw":1,"sources":[{"name":"Comicz.net v2","lang":"all","id":"1193945179099096692","baseUrl":"https://v2.comiz.net"}]},{"name":"Tachiyomi: Comikey","pkg":"eu.kanade.tachiyomi.extension.all.comikey","apk":"tachiyomi-all.comikey-v1.4.2.apk","lang":"all","code":2,"version":"1.4.2","nsfw":0,"sources":[{"name":"Comikey","lang":"en","id":"2769857481066602061","baseUrl":"https://comikey.com"},{"name":"Comikey","lang":"es","id":"374080003312345029","baseUrl":"https://comikey.com"},{"name":"Comikey","lang":"id","id":"1684620622390751911","baseUrl":"https://comikey.com"},{"name":"Comikey","lang":"pt-BR","id":"4174862482785095737","baseUrl":"https://comikey.com"},{"name":"Comikey Brasil","lang":"pt-BR","id":"4923846262931005728","baseUrl":"https://br.comikey.com"}]},{"name":"Tachiyomi: Commit Strip","pkg":"eu.kanade.tachiyomi.extension.all.commitstrip","apk":"tachiyomi-all.commitstrip-v1.4.3.apk","lang":"all","code":3,"version":"1.4.3","nsfw":0,"sources":[{"name":"Commit Strip","lang":"en","id":"5328240584854276436","baseUrl":"https://www.commitstrip.com"},{"name":"Commit Strip","lang":"fr","id":"4187575309418573632","baseUrl":"https://www.commitstrip.com"}]},{"name":"Tachiyomi: Coomer","pkg":"eu.kanade.tachiyomi.extension.all.coomer","apk":"tachiyomi-all.coomer-v1.4.16.apk","lang":"all","code":16,"version":"1.4.16","nsfw":1,"sources":[{"name":"Coomer","lang":"all","id":"8715899195746116471","baseUrl":"https://coomer.su"}]},{"name":"Tachiyomi: CosplayTele","pkg":"eu.kanade.tachiyomi.extension.all.cosplaytele","apk":"tachiyomi-all.cosplaytele-v1.4.3.apk","lang":"all","code":3,"version":"1.4.3","nsfw":1,"sources":[{"name":"CosplayTele","lang":"all","id":"7395748658970167454","baseUrl":"https://cosplaytele.com"}]},{"name":"Tachiyomi: Cubari","pkg":"eu.kanade.tachiyomi.extension.all.cubari","apk":"tachiyomi-all.cubari-v1.4.25.apk","lang":"all","code":25,"version":"1.4.25","nsfw":0,"sources":[{"name":"Cubari","lang":"en","id":"6338219619148105941","baseUrl":"https://cubari.moe"},{"name":"Cubari","lang":"all","id":"1470847599087460255","baseUrl":"https://cubari.moe"},{"name":"Cubari","lang":"other","id":"2013845246758512290","baseUrl":"https://cubari.moe"}]},{"name":"Tachiyomi: Danbooru","pkg":"eu.kanade.tachiyomi.extension.all.danbooru","apk":"tachiyomi-all.danbooru-v1.4.2.apk","lang":"all","code":2,"version":"1.4.2","nsfw":1,"sources":[{"name":"Danbooru","lang":"all","id":"7602260701584916302","baseUrl":"https://danbooru.donmai.us"}]},{"name":"Tachiyomi: DeviantArt","pkg":"eu.kanade.tachiyomi.extension.all.deviantart","apk":"tachiyomi-all.deviantart-v1.4.3.apk","lang":"all","code":3,"version":"1.4.3","nsfw":1,"sources":[{"name":"DeviantArt","lang":"all","id":"5211324870873630158","baseUrl":"https://deviantart.com"}]},{"name":"Tachiyomi: Dragon Ball Multiverse","pkg":"eu.kanade.tachiyomi.extension.all.dragonballmultiverse","apk":"tachiyomi-all.dragonballmultiverse-v1.4.6.apk","lang":"all","code":6,"version":"1.4.6","nsfw":0,"sources":[{"name":"Dragon Ball Multiverse","lang":"en","id":"5855032551259176250","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"fr","id":"7989144075938821809","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"ja","id":"2033023429560344772","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"zh","id":"4903395296014438593","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"es","id":"2743233241005498558","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"it","id":"8107468051584194246","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"pt","id":"5511951724437637256","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"de","id":"7576053878109850761","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"pl","id":"8371548443782837856","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"nl","id":"5007169057258882420","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse Parody","lang":"fr","id":"5582703984897222132","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"tr","id":"7492246554765916610","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"pt-BR","id":"1618337326936347760","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"hu","id":"525585394857906081","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"ga","id":"4704003050199034697","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"ca","id":"8851885792094862644","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"no","id":"6890714885948456521","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"ru","id":"7944056408443917590","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"ro","id":"2620385605605077513","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"eu","id":"5961569572141989337","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"lt","id":"5710504167796125606","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"hr","id":"8978307150219982189","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"ko","id":"2035574753584485369","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"fi","id":"3125099729987730580","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"he","id":"5131201512681860705","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"bg","id":"4845919081798207608","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"sv","id":"1446884092638094471","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"el","id":"9218696211252404910","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"es-419","id":"4156406679136971778","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"ar","id":"3744905183009204736","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"fil","id":"3217346477673086342","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"la","id":"4102859909531263289","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"da","id":"3145772760974227844","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"co","id":"8542101819541236153","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"br","id":"1106049048608045535","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"vec","id":"6824599919928625662","baseUrl":"https://www.dragonball-multiverse.com"},{"name":"Dragon Ball Multiverse","lang":"lmo","id":"8795012289956874023","baseUrl":"https://www.dragonball-multiverse.com"}]},{"name":"Tachiyomi: E-Hentai","pkg":"eu.kanade.tachiyomi.extension.all.ehentai","apk":"tachiyomi-all.ehentai-v1.4.24.apk","lang":"all","code":24,"version":"1.4.24","nsfw":1,"sources":[{"name":"E-Hentai","lang":"ja","id":"8100626124886895451","baseUrl":"https://e-hentai.org"},{"name":"E-Hentai","lang":"en","id":"57122881048805941","baseUrl":"https://e-hentai.org"},{"name":"E-Hentai","lang":"zh","id":"4678440076103929247","baseUrl":"https://e-hentai.org"},{"name":"E-Hentai","lang":"nl","id":"1876021963378735852","baseUrl":"https://e-hentai.org"},{"name":"E-Hentai","lang":"fr","id":"3955189842350477641","baseUrl":"https://e-hentai.org"},{"name":"E-Hentai","lang":"de","id":"4348288691341764259","baseUrl":"https://e-hentai.org"},{"name":"E-Hentai","lang":"hu","id":"773611868725221145","baseUrl":"https://e-hentai.org"},{"name":"E-Hentai","lang":"it","id":"5759417018342755550","baseUrl":"https://e-hentai.org"},{"name":"E-Hentai","lang":"ko","id":"825187715438990384","baseUrl":"https://e-hentai.org"},{"name":"E-Hentai","lang":"pl","id":"6116711405602166104","baseUrl":"https://e-hentai.org"},{"name":"E-Hentai","lang":"pt-BR","id":"7151438547982231541","baseUrl":"https://e-hentai.org"},{"name":"E-Hentai","lang":"ru","id":"2171445159732592630","baseUrl":"https://e-hentai.org"},{"name":"E-Hentai","lang":"es","id":"3032959619549451093","baseUrl":"https://e-hentai.org"},{"name":"E-Hentai","lang":"th","id":"5980349886941016589","baseUrl":"https://e-hentai.org"},{"name":"E-Hentai","lang":"vi","id":"6073266008352078708","baseUrl":"https://e-hentai.org"},{"name":"E-Hentai","lang":"none","id":"5499077866612745456","baseUrl":"https://e-hentai.org"},{"name":"E-Hentai","lang":"other","id":"6140480779421365791","baseUrl":"https://e-hentai.org"}]},{"name":"Tachiyomi: Elite Babes","pkg":"eu.kanade.tachiyomi.extension.all.elitebabes","apk":"tachiyomi-all.elitebabes-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":1,"sources":[{"name":"Elite Babes","lang":"all","id":"6842598531101194683","baseUrl":"https://www.elitebabes.com"}]},{"name":"Tachiyomi: Eromanhwa","pkg":"eu.kanade.tachiyomi.extension.all.eromanhwa","apk":"tachiyomi-all.eromanhwa-v1.4.39.apk","lang":"all","code":39,"version":"1.4.39","nsfw":1,"sources":[{"name":"Eromanhwa","lang":"all","id":"3597355706480775153","baseUrl":"https://eromanhwa.org"}]},{"name":"Tachiyomi: EternalMangas","pkg":"eu.kanade.tachiyomi.extension.all.eternalmangas","apk":"tachiyomi-all.eternalmangas-v1.4.5.apk","lang":"all","code":5,"version":"1.4.5","nsfw":1,"sources":[{"name":"EternalMangas","lang":"es","id":"1533901034425595323","baseUrl":"https://eternalmangas.com"},{"name":"EternalMangas","lang":"en","id":"5438790096530288259","baseUrl":"https://eternalmangas.com"},{"name":"EternalMangas","lang":"pt-BR","id":"4895816221191932497","baseUrl":"https://eternalmangas.com"}]},{"name":"Tachiyomi: Everia.club","pkg":"eu.kanade.tachiyomi.extension.all.everiaclub","apk":"tachiyomi-all.everiaclub-v1.4.9.apk","lang":"all","code":9,"version":"1.4.9","nsfw":1,"sources":[{"name":"Everia.club","lang":"all","id":"7698513740234984368","baseUrl":"https://everia.club"}]},{"name":"Tachiyomi: EveriaClub (unoriginal)","pkg":"eu.kanade.tachiyomi.extension.all.everiaclubcom","apk":"tachiyomi-all.everiaclubcom-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":1,"sources":[{"name":"EveriaClub (unoriginal)","lang":"all","id":"8698756602692547891","baseUrl":"https://www.everiaclub.com"}]},{"name":"Tachiyomi: Femjoy Hunter","pkg":"eu.kanade.tachiyomi.extension.all.femjoyhunter","apk":"tachiyomi-all.femjoyhunter-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":1,"sources":[{"name":"Femjoy Hunter","lang":"all","id":"9185590742756804817","baseUrl":"https://www.femjoyhunter.com"}]},{"name":"Tachiyomi: FoamGirl","pkg":"eu.kanade.tachiyomi.extension.all.foamgirl","apk":"tachiyomi-all.foamgirl-v1.4.2.apk","lang":"all","code":2,"version":"1.4.2","nsfw":1,"sources":[{"name":"FoamGirl","lang":"all","id":"5874068195320206396","baseUrl":"https://foamgirl.net"}]},{"name":"Tachiyomi: FoolSlide Customizable","pkg":"eu.kanade.tachiyomi.extension.all.foolslidecustomizable","apk":"tachiyomi-all.foolslidecustomizable-v1.4.3.apk","lang":"all","code":3,"version":"1.4.3","nsfw":0,"sources":[{"name":"FoolSlide Customizable","lang":"other","id":"6351052922295965587","baseUrl":"https://127.0.0.1"}]},{"name":"Tachiyomi: Frelein Books","pkg":"eu.kanade.tachiyomi.extension.all.freleinbooks","apk":"tachiyomi-all.freleinbooks-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":0,"sources":[{"name":"Frelein Books","lang":"all","id":"6187349985569291135","baseUrl":"https://books.frelein.my.id"}]},{"name":"Tachiyomi: FTV Hunter","pkg":"eu.kanade.tachiyomi.extension.all.ftvhunter","apk":"tachiyomi-all.ftvhunter-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":1,"sources":[{"name":"FTV Hunter","lang":"all","id":"2424130356866336342","baseUrl":"https://www.ftvhunter.com"}]},{"name":"Tachiyomi: Galaxy","pkg":"eu.kanade.tachiyomi.extension.all.galaxy","apk":"tachiyomi-all.galaxy-v1.4.4.apk","lang":"all","code":4,"version":"1.4.4","nsfw":0,"sources":[{"name":"Galaxy Webtoon","lang":"en","id":"2602904659965278831","baseUrl":"https://galaxyaction.net"},{"name":"Galaxy Manga","lang":"ar","id":"2729515745226258240","baseUrl":"https://galaxymanga.net"}]},{"name":"Tachiyomi: Grabber Zone","pkg":"eu.kanade.tachiyomi.extension.all.grabberzone","apk":"tachiyomi-all.grabberzone-v1.4.38.apk","lang":"all","code":38,"version":"1.4.38","nsfw":0,"sources":[{"name":"Grabber Zone","lang":"all","id":"7008887237419113673","baseUrl":"https://grabber.zone"}]},{"name":"Tachiyomi: Hennojin","pkg":"eu.kanade.tachiyomi.extension.all.hennojin","apk":"tachiyomi-all.hennojin-v1.4.2.apk","lang":"all","code":2,"version":"1.4.2","nsfw":1,"sources":[{"name":"Hennojin","lang":"en","id":"2486465102799235219","baseUrl":"https://hennojin.com"},{"name":"Hennojin","lang":"ja","id":"6754172311859665554","baseUrl":"https://hennojin.com"}]},{"name":"Tachiyomi: 3Hentai","pkg":"eu.kanade.tachiyomi.extension.all.hentai3","apk":"tachiyomi-all.hentai3-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":1,"sources":[{"name":"3Hentai","lang":"all","id":"6915411826598362561","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"en","id":"7819216870104067677","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"ja","id":"2859097949969075077","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"ko","id":"1633661983859923604","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"zh","id":"6260479722543828095","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"mo","id":"8615096170305162493","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"es","id":"373755159908438683","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"pt","id":"1132983959765816866","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"id","id":"49558592523574241","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"jv","id":"7615826761003926053","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"tl","id":"3940534831604021485","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"vi","id":"6096870058125388335","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"th","id":"3039466073711396152","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"my","id":"3523364768003208635","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"tr","id":"359674482170560410","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"ru","id":"4917651850397277037","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"uk","id":"3501213105339612791","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"po","id":"7940950215101782907","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"fi","id":"685390685036083849","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"de","id":"7057309244033446342","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"it","id":"419728421305339582","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"fr","id":"4290439286788644779","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"nl","id":"7640863230103182507","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"cs","id":"3862668659803323645","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"hu","id":"8643172240389130297","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"bg","id":"2158865776377405902","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"is","id":"8884989104958593922","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"la","id":"5003216810967182175","baseUrl":"https://3hentai.net"},{"name":"3Hentai","lang":"ar","id":"1533969146563051444","baseUrl":"https://3hentai.net"}]},{"name":"Tachiyomi: Hentai Cosplay","pkg":"eu.kanade.tachiyomi.extension.all.hentaicosplay","apk":"tachiyomi-all.hentaicosplay-v1.4.4.apk","lang":"all","code":4,"version":"1.4.4","nsfw":1,"sources":[{"name":"Hentai Cosplay","lang":"all","id":"3422463439145930309","baseUrl":"https://hentai-cosplay-xxx.com"}]},{"name":"Tachiyomi: HentaiEra","pkg":"eu.kanade.tachiyomi.extension.all.hentaiera","apk":"tachiyomi-all.hentaiera-v1.4.5.apk","lang":"all","code":5,"version":"1.4.5","nsfw":1,"sources":[{"name":"HentaiEra","lang":"en","id":"647637185891033517","baseUrl":"https://hentaiera.com"},{"name":"HentaiEra","lang":"ja","id":"2492666945996599997","baseUrl":"https://hentaiera.com"},{"name":"HentaiEra","lang":"es","id":"1720815810677381837","baseUrl":"https://hentaiera.com"},{"name":"HentaiEra","lang":"fr","id":"6887659515539839354","baseUrl":"https://hentaiera.com"},{"name":"HentaiEra","lang":"ko","id":"5930644847758440964","baseUrl":"https://hentaiera.com"},{"name":"HentaiEra","lang":"de","id":"1901100795183424105","baseUrl":"https://hentaiera.com"},{"name":"HentaiEra","lang":"ru","id":"4966955732363898584","baseUrl":"https://hentaiera.com"},{"name":"HentaiEra","lang":"all","id":"5238899243957092391","baseUrl":"https://hentaiera.com"}]},{"name":"Tachiyomi: HentaiFox","pkg":"eu.kanade.tachiyomi.extension.all.hentaifox","apk":"tachiyomi-all.hentaifox-v1.4.10.apk","lang":"all","code":10,"version":"1.4.10","nsfw":1,"sources":[{"name":"HentaiFox","lang":"en","id":"7945033982379409892","baseUrl":"https://hentaifox.com"},{"name":"HentaiFox","lang":"ja","id":"8640201438684762638","baseUrl":"https://hentaifox.com"},{"name":"HentaiFox","lang":"zh","id":"3252050349835097844","baseUrl":"https://hentaifox.com"},{"name":"HentaiFox","lang":"ko","id":"2146024794445748144","baseUrl":"https://hentaifox.com"},{"name":"HentaiFox","lang":"all","id":"2697587119837846427","baseUrl":"https://hentaifox.com"}]},{"name":"Tachiyomi: HentaiHand","pkg":"eu.kanade.tachiyomi.extension.all.hentaihand","apk":"tachiyomi-all.hentaihand-v1.4.7.apk","lang":"all","code":7,"version":"1.4.7","nsfw":1,"sources":[{"name":"HentaiHand","lang":"all","id":"1235047015955289468","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"en","id":"1438773694780928937","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"zh","id":"866133291730804205","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"ja","id":"4992571563369273240","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"other","id":"7302549142935671434","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"eo","id":"6189674531673390664","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"ceb","id":"2136686110556284465","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"cs","id":"6818645358118704394","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"ar","id":"5494684486943087247","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"sk","id":"3548394435548008920","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"mn","id":"4197081087116305652","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"uk","id":"299569391162966579","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"la","id":"3078530910469685147","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"tl","id":"8205998909543626240","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"es","id":"1049245690865797006","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"it","id":"8272502917504358946","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"ko","id":"2772498967425526818","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"th","id":"392245224742696225","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"pl","id":"6173663752022195918","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"fr","id":"2304134427430911086","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"pt-BR","id":"2516244587139644000","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"de","id":"8300414741852788090","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"fi","id":"4855613465785451164","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"ru","id":"5788099943016900736","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"hu","id":"6490746811386262494","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"id","id":"202981519301875762","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"vi","id":"474754362133655719","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"nl","id":"7899387259192038112","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"hi","id":"1337874080374168573","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"tr","id":"6304497572870246566","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"el","id":"9098484674492839156","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"sr","id":"259350817779848434","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"jv","id":"8174384290387590645","baseUrl":"https://hentaihand.com"},{"name":"HentaiHand","lang":"bg","id":"7561346598466986562","baseUrl":"https://hentaihand.com"}]},{"name":"Tachiyomi: Hitomi","pkg":"eu.kanade.tachiyomi.extension.all.hitomi","apk":"tachiyomi-all.hitomi-v1.4.35.apk","lang":"all","code":35,"version":"1.4.35","nsfw":1,"sources":[{"name":"Hitomi","lang":"all","id":"690123758188633713","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"en","id":"8758194323514078879","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"id","id":"1151065481637272954","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"jv","id":"6508906416202704914","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"ca","id":"6511868096744396893","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"ceb","id":"4174246577531268343","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"cs","id":"6252839110189358321","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"da","id":"846229581721942637","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"de","id":"3527959698638681794","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"et","id":"3137387913459348191","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"es","id":"4675241818028365305","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"eo","id":"2806629479137588090","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"fr","id":"2485667029890093714","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"it","id":"6889006204051558344","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"hi","id":"1934919967422980093","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"hu","id":"5925216506653833737","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"pl","id":"721961972020678864","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"pt","id":"5342308195627947507","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"vi","id":"3818599797217502124","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"tr","id":"5379755699214980223","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"ru","id":"3909280091773603050","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"uk","id":"4074034220834832549","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"ar","id":"6776904750010591906","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"ko","id":"9053782715781498920","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"zh","id":"1859528116737393976","baseUrl":"https://hitomi.la"},{"name":"Hitomi","lang":"ja","id":"7152495211541141858","baseUrl":"https://hitomi.la"}]},{"name":"Tachiyomi: HNI-Scantrad","pkg":"eu.kanade.tachiyomi.extension.all.hniscantrad","apk":"tachiyomi-all.hniscantrad-v1.4.8.apk","lang":"all","code":8,"version":"1.4.8","nsfw":0,"sources":[{"name":"HNI-Scantrad","lang":"all","id":"4972198006998831006","baseUrl":"https://hni-scantrad.net"}]},{"name":"Tachiyomi: HOLONOMETRIA","pkg":"eu.kanade.tachiyomi.extension.all.holonometria","apk":"tachiyomi-all.holonometria-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":0,"sources":[{"name":"HOLONOMETRIA","lang":"ja","id":"8779183423368672304","baseUrl":"https://alt.hololive.tv"},{"name":"HOLONOMETRIA","lang":"en","id":"1334492919632049277","baseUrl":"https://alt.hololive.tv"},{"name":"HOLONOMETRIA","lang":"id","id":"5054301488874110968","baseUrl":"https://alt.hololive.tv"}]},{"name":"Tachiyomi: IMHentai","pkg":"eu.kanade.tachiyomi.extension.all.imhentai","apk":"tachiyomi-all.imhentai-v1.4.19.apk","lang":"all","code":19,"version":"1.4.19","nsfw":1,"sources":[{"name":"IMHentai","lang":"en","id":"1797754663718263026","baseUrl":"https://imhentai.xxx"},{"name":"IMHentai","lang":"ja","id":"2843704102372436364","baseUrl":"https://imhentai.xxx"},{"name":"IMHentai","lang":"es","id":"1600533831542201953","baseUrl":"https://imhentai.xxx"},{"name":"IMHentai","lang":"fr","id":"6518732459102419415","baseUrl":"https://imhentai.xxx"},{"name":"IMHentai","lang":"ko","id":"520535890722709208","baseUrl":"https://imhentai.xxx"},{"name":"IMHentai","lang":"de","id":"341676138799608238","baseUrl":"https://imhentai.xxx"},{"name":"IMHentai","lang":"ru","id":"7505608677115153818","baseUrl":"https://imhentai.xxx"},{"name":"IMHentai","lang":"all","id":"3395462671769287908","baseUrl":"https://imhentai.xxx"}]},{"name":"Tachiyomi: izneo (webtoons)","pkg":"eu.kanade.tachiyomi.extension.all.izneo","apk":"tachiyomi-all.izneo-v1.4.5.apk","lang":"all","code":5,"version":"1.4.5","nsfw":0,"sources":[{"name":"izneo","lang":"en","id":"7160867804476891075","baseUrl":"https://www.izneo.com/en/webtoon"},{"name":"izneo","lang":"fr","id":"1002111777562806129","baseUrl":"https://www.izneo.com/fr/webtoon"}]},{"name":"Tachiyomi: Joymii Hub","pkg":"eu.kanade.tachiyomi.extension.all.joymiihub","apk":"tachiyomi-all.joymiihub-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":1,"sources":[{"name":"Joymii Hub","lang":"all","id":"8421979328901634475","baseUrl":"https://www.joymiihub.com"}]},{"name":"Tachiyomi: Junmeitu","pkg":"eu.kanade.tachiyomi.extension.all.junmeitu","apk":"tachiyomi-all.junmeitu-v1.4.6.apk","lang":"all","code":6,"version":"1.4.6","nsfw":1,"sources":[{"name":"Junmeitu","lang":"all","id":"4721197766605490540","baseUrl":"https://meijuntu.com"}]},{"name":"Tachiyomi: KDT Scans","pkg":"eu.kanade.tachiyomi.extension.all.kdtscans","apk":"tachiyomi-all.kdtscans-v1.4.38.apk","lang":"all","code":38,"version":"1.4.38","nsfw":0,"sources":[{"name":"KDT Scans","lang":"all","id":"5253252278559475443","baseUrl":"https://kdtscans.com"}]},{"name":"Tachiyomi: Kemono","pkg":"eu.kanade.tachiyomi.extension.all.kemono","apk":"tachiyomi-all.kemono-v1.4.16.apk","lang":"all","code":16,"version":"1.4.16","nsfw":1,"sources":[{"name":"Kemono","lang":"all","id":"2011050813940802605","baseUrl":"https://kemono.su"}]},{"name":"Tachiyomi: Kiutaku","pkg":"eu.kanade.tachiyomi.extension.all.kiutaku","apk":"tachiyomi-all.kiutaku-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":1,"sources":[{"name":"Kiutaku","lang":"all","id":"3040035304874076216","baseUrl":"https://kiutaku.com"}]},{"name":"Tachiyomi: SchaleNetwork","pkg":"eu.kanade.tachiyomi.extension.all.koharu","apk":"tachiyomi-all.koharu-v1.4.11.apk","lang":"all","code":11,"version":"1.4.11","nsfw":1,"sources":[{"name":"SchaleNetwork","lang":"all","id":"713326856395200688","baseUrl":"https://schale.network"},{"name":"SchaleNetwork","lang":"en","id":"1484902275639232927","baseUrl":"https://schale.network"},{"name":"SchaleNetwork","lang":"ja","id":"8512356093551591735","baseUrl":"https://schale.network"},{"name":"SchaleNetwork","lang":"zh","id":"8839994618804276749","baseUrl":"https://schale.network"}]},{"name":"Tachiyomi: Komga","pkg":"eu.kanade.tachiyomi.extension.all.komga","apk":"tachiyomi-all.komga-v1.4.59.apk","lang":"all","code":59,"version":"1.4.59","nsfw":0,"sources":[{"name":"Komga","lang":"all","id":"4508733312114627536","baseUrl":""},{"name":"Komga (2)","lang":"all","id":"8074481155021144106","baseUrl":""},{"name":"Komga (3)","lang":"all","id":"5132811728275817394","baseUrl":""}]},{"name":"Tachiyomi: LANraragi","pkg":"eu.kanade.tachiyomi.extension.all.lanraragi","apk":"tachiyomi-all.lanraragi-v1.4.18.apk","lang":"all","code":18,"version":"1.4.18","nsfw":0,"sources":[{"name":"LANraragi (1)","lang":"all","id":"4482480338677079857","baseUrl":"http://127.0.0.1:3000"},{"name":"LANraragi (2)","lang":"all","id":"6188058704030343819","baseUrl":"http://127.0.0.1:3000"}]},{"name":"Tachiyomi: League of Legends","pkg":"eu.kanade.tachiyomi.extension.all.leagueoflegends","apk":"tachiyomi-all.leagueoflegends-v1.4.2.apk","lang":"all","code":2,"version":"1.4.2","nsfw":0,"sources":[{"name":"League of Legends","lang":"en","id":"5421383187922044761","baseUrl":"https://universe.leagueoflegends.com/en_us/comic/"},{"name":"League of Legends","lang":"de","id":"380479987909263478","baseUrl":"https://universe.leagueoflegends.com/de_de/comic/"},{"name":"League of Legends","lang":"es","id":"2505034801993260082","baseUrl":"https://universe.leagueoflegends.com/es_es/comic/"},{"name":"League of Legends","lang":"fr","id":"8921189687191630727","baseUrl":"https://universe.leagueoflegends.com/fr_fr/comic/"},{"name":"League of Legends","lang":"it","id":"2993141237027207546","baseUrl":"https://universe.leagueoflegends.com/it_it/comic/"},{"name":"League of Legends","lang":"pl","id":"4102855915741272173","baseUrl":"https://universe.leagueoflegends.com/pl_pl/comic/"},{"name":"League of Legends","lang":"el","id":"3431750855616467337","baseUrl":"https://universe.leagueoflegends.com/el_gr/comic/"},{"name":"League of Legends","lang":"ro","id":"8175862906648984382","baseUrl":"https://universe.leagueoflegends.com/ro_ro/comic/"},{"name":"League of Legends","lang":"hu","id":"8553752347472368081","baseUrl":"https://universe.leagueoflegends.com/hu_hu/comic/"},{"name":"League of Legends","lang":"cs","id":"241129525014815798","baseUrl":"https://universe.leagueoflegends.com/cs_cz/comic/"},{"name":"League of Legends","lang":"es-419","id":"3236903197935016602","baseUrl":"https://universe.leagueoflegends.com/es_mx/comic/"},{"name":"League of Legends","lang":"pt-BR","id":"7646731134152168219","baseUrl":"https://universe.leagueoflegends.com/pt_br/comic/"},{"name":"League of Legends","lang":"ja","id":"1617144019668124895","baseUrl":"https://universe.leagueoflegends.com/ja_jp/comic/"},{"name":"League of Legends","lang":"ru","id":"6359895141227528344","baseUrl":"https://universe.leagueoflegends.com/ru_ru/comic/"},{"name":"League of Legends","lang":"tr","id":"4983763186502997670","baseUrl":"https://universe.leagueoflegends.com/tr_tr/comic/"},{"name":"League of Legends","lang":"ko","id":"1822275077186160208","baseUrl":"https://universe.leagueoflegends.com/ko_kr/comic/"}]},{"name":"Tachiyomi: Little Garden","pkg":"eu.kanade.tachiyomi.extension.all.littlegarden","apk":"tachiyomi-all.littlegarden-v1.4.2.apk","lang":"all","code":2,"version":"1.4.2","nsfw":0,"sources":[{"name":"Little Garden","lang":"all","id":"4646674279369583651","baseUrl":"https://littlexgarden.com/"}]},{"name":"Tachiyomi: Luscious","pkg":"eu.kanade.tachiyomi.extension.all.luscious","apk":"tachiyomi-all.luscious-v1.4.19.apk","lang":"all","code":19,"version":"1.4.19","nsfw":1,"sources":[{"name":"Luscious","lang":"en","id":"2774395484485436593","baseUrl":"https://www.luscious.net"},{"name":"Luscious","lang":"ja","id":"356192691213044104","baseUrl":"https://www.luscious.net"},{"name":"Luscious","lang":"es","id":"4290611657061143259","baseUrl":"https://www.luscious.net"},{"name":"Luscious","lang":"it","id":"80965277100704155","baseUrl":"https://www.luscious.net"},{"name":"Luscious","lang":"de","id":"5185485787190542529","baseUrl":"https://www.luscious.net"},{"name":"Luscious","lang":"fr","id":"151111346668901230","baseUrl":"https://www.luscious.net"},{"name":"Luscious","lang":"zh","id":"5200417794129414472","baseUrl":"https://www.luscious.net"},{"name":"Luscious","lang":"ko","id":"264934399418113929","baseUrl":"https://www.luscious.net"},{"name":"Luscious","lang":"other","id":"1383462828430089842","baseUrl":"https://www.luscious.net"},{"name":"Luscious","lang":"pt-BR","id":"5826725746643311801","baseUrl":"https://www.luscious.net"},{"name":"Luscious","lang":"th","id":"2638955581892699679","baseUrl":"https://www.luscious.net"},{"name":"Luscious","lang":"all","id":"4625881812440927464","baseUrl":"https://www.luscious.net"}]},{"name":"Tachiyomi: Magical Translators","pkg":"eu.kanade.tachiyomi.extension.all.magicaltranslators","apk":"tachiyomi-all.magicaltranslators-v1.4.6.apk","lang":"all","code":6,"version":"1.4.6","nsfw":0,"sources":[{"name":"Magical Translators","lang":"en","id":"4033172788130537982","baseUrl":"https://mahoushoujobu.com"},{"name":"Magical Translators","lang":"es","id":"8666919453546333116","baseUrl":"https://mahoushoujobu.com"},{"name":"Magical Translators","lang":"pl","id":"1289819859468493242","baseUrl":"https://mahoushoujobu.com"}]},{"name":"Tachiyomi: Manga18Me","pkg":"eu.kanade.tachiyomi.extension.all.manga18me","apk":"tachiyomi-all.manga18me-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":1,"sources":[{"name":"Manga18.me","lang":"all","id":"1353606378087565589","baseUrl":"https://manga18.me"},{"name":"Manga18.me","lang":"en","id":"6244055465910932489","baseUrl":"https://manga18.me"}]},{"name":"Tachiyomi: MangaCrazy","pkg":"eu.kanade.tachiyomi.extension.all.mangacrazy","apk":"tachiyomi-all.mangacrazy-v1.4.38.apk","lang":"all","code":38,"version":"1.4.38","nsfw":1,"sources":[{"name":"MangaCrazy","lang":"all","id":"6812667365653325714","baseUrl":"https://mangacrazy.net"}]},{"name":"Tachiyomi: MangaDex","pkg":"eu.kanade.tachiyomi.extension.all.mangadex","apk":"tachiyomi-all.mangadex-v1.4.196.apk","lang":"all","code":196,"version":"1.4.196","nsfw":1,"sources":[{"name":"MangaDex","lang":"en","id":"2499283573021220255","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"af","id":"4638673959522768501","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"sq","id":"987803387023224960","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"ar","id":"3339599426223341161","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"az","id":"9127464796236242233","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"eu","id":"1553736397938752611","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"be","id":"3601180820582582605","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"bn","id":"4150470519566206911","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"bg","id":"5463447640980279236","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"my","id":"1347402746269051958","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"ca","id":"5860541308324630662","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"zh-Hans","id":"5148895169070562838","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"zh-Hant","id":"1493666528525752601","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"cv","id":"2072928884077964642","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"hr","id":"8548374501079910130","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"cs","id":"3578612018159256808","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"da","id":"425785191804166217","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"nl","id":"6750440049024086587","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"eo","id":"2819252027406613931","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"et","id":"8773024089257004344","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"fil","id":"8578871918181236609","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"fi","id":"8254121249433835847","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"fr","id":"4505830566611664829","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"ka","id":"8952567078513962586","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"de","id":"5098537545549490547","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"el","id":"3260701926561129943","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"he","id":"1424273154577029558","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"hi","id":"6840513937945146538","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"hu","id":"4284949320785450865","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"ga","id":"3686775439235747344","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"id","id":"3807502156582598786","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"it","id":"1952071260038453057","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"jv","id":"1573550798452063564","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"ja","id":"1411768577036936240","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"kk","id":"8884149958776527952","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"ko","id":"3285208643537017688","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"la","id":"764587568075398530","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"lt","id":"737986167355114438","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"ms","id":"1471784905273036181","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"mn","id":"5967745367608513818","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"ne","id":"954368055061084457","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"no","id":"4872213291993424667","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"fa","id":"3781216447842245147","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"pl","id":"8033579885162383068","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"pt-BR","id":"2655149515337070132","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"pt","id":"5189216366882819742","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"ro","id":"4774459486579224459","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"ru","id":"2098905203823335614","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"sr","id":"3507378005483435886","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"sk","id":"2875503798326600410","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"es-419","id":"4938773340256184018","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"es","id":"6400665728063187402","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"sv","id":"1145824452519314725","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"ta","id":"4273071356706429527","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"te","id":"6886894829142702925","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"th","id":"1713554459881080228","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"tr","id":"3846770256925560569","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"uk","id":"5779037855201976894","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"ur","id":"72800122520214493","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"uz","id":"2838715564514827672","baseUrl":"https://mangadex.org"},{"name":"MangaDex","lang":"vi","id":"9194073792736219759","baseUrl":"https://mangadex.org"}]},{"name":"Tachiyomi: MangaFire","pkg":"eu.kanade.tachiyomi.extension.all.mangafire","apk":"tachiyomi-all.mangafire-v1.4.7.apk","lang":"all","code":7,"version":"1.4.7","nsfw":1,"sources":[{"name":"MangaFire","lang":"en","id":"6084907896154116083","baseUrl":"https://mangafire.to"},{"name":"MangaFire","lang":"es","id":"8098539940032331958","baseUrl":"https://mangafire.to"},{"name":"MangaFire","lang":"es-419","id":"3849324770075062403","baseUrl":"https://mangafire.to"},{"name":"MangaFire","lang":"fr","id":"6228021941803932286","baseUrl":"https://mangafire.to"},{"name":"MangaFire","lang":"ja","id":"524110931382140732","baseUrl":"https://mangafire.to"},{"name":"MangaFire","lang":"pt","id":"758400875161895515","baseUrl":"https://mangafire.to"},{"name":"MangaFire","lang":"pt-BR","id":"7842137233968841729","baseUrl":"https://mangafire.to"}]},{"name":"Tachiyomi: MangaForFree.net","pkg":"eu.kanade.tachiyomi.extension.all.mangaforfree","apk":"tachiyomi-all.mangaforfree-v1.4.39.apk","lang":"all","code":39,"version":"1.4.39","nsfw":1,"sources":[{"name":"MangaForFree.net","lang":"en","id":"7450882931813509619","baseUrl":"https://mangaforfree.net"},{"name":"MangaForFree.net","lang":"ko","id":"2115363546279045008","baseUrl":"https://mangaforfree.net"},{"name":"MangaForFree.net","lang":"all","id":"3147518065805706","baseUrl":"https://mangaforfree.net"}]},{"name":"Tachiyomi: Manga Hosted","pkg":"eu.kanade.tachiyomi.extension.all.mangahosted","apk":"tachiyomi-all.mangahosted-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":1,"sources":[{"name":"Manga Hosted","lang":"en","id":"8140531984647554136","baseUrl":"https://mangahosted.org"},{"name":"Manga Hosted v2","lang":"en","id":"8454563505015101317","baseUrl":"https://mangahosted.org"},{"name":"Manga Hosted Comics","lang":"en","id":"6721774888964009354","baseUrl":"https://mangahosted.org"},{"name":"Manga Hosted","lang":"es","id":"3668726281312254280","baseUrl":"https://mangahosted.org"},{"name":"Manga Hosted","lang":"id","id":"4130664646488352185","baseUrl":"https://mangahosted.org"},{"name":"Manga Hosted","lang":"it","id":"4397663876207033713","baseUrl":"https://mangahosted.org"},{"name":"Manga Hosted","lang":"ja","id":"1103575716326297253","baseUrl":"https://mangahosted.org"},{"name":"Manga Hosted","lang":"pt-BR","id":"5590604217556416573","baseUrl":"https://mangahosted.org"},{"name":"Manga Hosted","lang":"ru","id":"8220997131785985941","baseUrl":"https://mangahosted.org"},{"name":"Manga Hosted +18","lang":"ru","id":"5501558716005004478","baseUrl":"https://mangahosted.org"},{"name":"Manga Hosted +18 Yaoi","lang":"ru","id":"8497371037005902842","baseUrl":"https://mangahosted.org"}]},{"name":"Tachiyomi: MangaPark","pkg":"eu.kanade.tachiyomi.extension.all.mangapark","apk":"tachiyomi-all.mangapark-v1.4.20.apk","lang":"all","code":20,"version":"1.4.20","nsfw":1,"sources":[{"name":"MangaPark","lang":"af","id":"2582063783678076445","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"sq","id":"4237465182067821837","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"am","id":"6993654181519089030","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ar","id":"1886485150961526021","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"hy","id":"8024110322136480217","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"az","id":"5858537807046456985","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"be","id":"2882861952027427172","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"bn","id":"1283370812282011207","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"bs","id":"3061835272361259368","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"bg","id":"3035047173699215668","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"my","id":"6691130797511865568","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"km","id":"1115520011730370679","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ca","id":"3926831658684211263","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ceb","id":"3742218293681910540","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"zh","id":"2551887951903036370","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"zh-Hans","id":"8363718895979558263","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"zh-Hant","id":"6370855516529451708","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"hr","id":"8835309856241803193","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"cs","id":"3512352771759571190","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"da","id":"1087446847158868886","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"nl","id":"808216257964805885","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"en","id":"2292947733994124621","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"eo","id":"4544417195829286190","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"et","id":"554442963658573856","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"fo","id":"4355489822704844544","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"fil","id":"1033845196396472420","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"fi","id":"8095859101371407852","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"fr","id":"5326415455296094716","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ka","id":"7287519934797647031","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"de","id":"3217813842670981365","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"el","id":"4504633894140935044","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"gn","id":"7374823283802890291","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ht","id":"9018006831491287020","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ha","id":"3089873689162457282","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"he","id":"4093414998985127510","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"hi","id":"3734362063865900209","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"hu","id":"2199902763990936476","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"is","id":"83344180879345840","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ig","id":"280228127242219927","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"id","id":"6468125114850231168","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ga","id":"2464218349288671001","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"it","id":"3917144389300397154","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ja","id":"8116778405059183880","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"jv","id":"1247997813423717005","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"kk","id":"8385988192311508148","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ko","id":"3808337459373470377","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ku","id":"7661137300722240584","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ky","id":"4492779549865369971","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"lo","id":"468277077436636697","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"lv","id":"364448785774659583","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"lt","id":"8704854549943519735","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"lb","id":"5338786620971677752","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"mk","id":"6238915579724909485","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"mg","id":"5282932686144221103","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ms","id":"5147911519899445250","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ml","id":"5205796376283477354","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"mt","id":"8377312773050333352","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"mi","id":"7548693146383229069","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"mo","id":"5349740697528936674","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"mn","id":"7625750086448353433","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ne","id":"1407641706713618271","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"no","id":"7169902523894560530","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ny","id":"7040629675576506437","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ps","id":"4635611419903982235","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"fa","id":"573786547889953063","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"pl","id":"538092928609316363","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"pt","id":"7173299704455879086","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"pt-BR","id":"3368480177888592428","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ro","id":"446630628670053304","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"rm","id":"4101855491332653694","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ru","id":"5954573709439954571","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"sm","id":"5505911187907938091","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"sr","id":"4426815267426040845","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"sh","id":"849487295002509523","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"st","id":"8637192318130593210","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"sn","id":"608194061398400609","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"sd","id":"771828946195785512","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"si","id":"7771468135509575210","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"sk","id":"8787580127471311520","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"sl","id":"8491249187985194418","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"so","id":"7925465388215648031","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"es","id":"3185438548397267090","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"es-419","id":"4036321126126804533","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"sw","id":"5197648287074450319","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"sv","id":"415066989665148177","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"tg","id":"23679029924031799","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ta","id":"389753661891368066","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"th","id":"2932449342572327182","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ti","id":"5454274973639178805","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"to","id":"7756340566097667079","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"tr","id":"3198784493606787558","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"tk","id":"1343156425636586078","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"uk","id":"2450106638844133282","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"ur","id":"2671353380856171336","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"uz","id":"2782277991997960489","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"vi","id":"8626807313298137919","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"yo","id":"8519931619184477635","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"zu","id":"3728488786813382265","baseUrl":"https://mangapark.net"},{"name":"MangaPark","lang":"other","id":"3104194596825946300","baseUrl":"https://mangapark.net"}]},{"name":"Tachiyomi: MANGA Plus by SHUEISHA","pkg":"eu.kanade.tachiyomi.extension.all.mangaplus","apk":"tachiyomi-all.mangaplus-v1.4.53.apk","lang":"all","code":53,"version":"1.4.53","nsfw":0,"sources":[{"name":"MANGA Plus by SHUEISHA","lang":"en","id":"1998944621602463790","baseUrl":"https://mangaplus.shueisha.co.jp"},{"name":"MANGA Plus by SHUEISHA","lang":"es","id":"1286073245950890830","baseUrl":"https://mangaplus.shueisha.co.jp"},{"name":"MANGA Plus by SHUEISHA","lang":"fr","id":"7642759409549978864","baseUrl":"https://mangaplus.shueisha.co.jp"},{"name":"MANGA Plus by SHUEISHA","lang":"id","id":"932564577108614127","baseUrl":"https://mangaplus.shueisha.co.jp"},{"name":"MANGA Plus by SHUEISHA","lang":"pt-BR","id":"3444662672352788181","baseUrl":"https://mangaplus.shueisha.co.jp"},{"name":"MANGA Plus by SHUEISHA","lang":"ru","id":"3520485566708512181","baseUrl":"https://mangaplus.shueisha.co.jp"},{"name":"MANGA Plus by SHUEISHA","lang":"th","id":"6345211913721743017","baseUrl":"https://mangaplus.shueisha.co.jp"},{"name":"MANGA Plus by SHUEISHA","lang":"vi","id":"4696259977267090434","baseUrl":"https://mangaplus.shueisha.co.jp"},{"name":"MANGA Plus by SHUEISHA","lang":"de","id":"1893513843840146580","baseUrl":"https://mangaplus.shueisha.co.jp"}]},{"name":"Tachiyomi: MANGA Plus Creators by SHUEISHA","pkg":"eu.kanade.tachiyomi.extension.all.mangapluscreators","apk":"tachiyomi-all.mangapluscreators-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":0,"sources":[{"name":"MANGA Plus Creators by SHUEISHA","lang":"en","id":"4994699950662723787","baseUrl":"https://medibang.com/mpc"},{"name":"MANGA Plus Creators by SHUEISHA","lang":"es","id":"1894436225000314286","baseUrl":"https://medibang.com/mpc"}]},{"name":"Tachiyomi: MangaReader","pkg":"eu.kanade.tachiyomi.extension.all.mangareaderto","apk":"tachiyomi-all.mangareaderto-v1.4.6.apk","lang":"all","code":6,"version":"1.4.6","nsfw":1,"sources":[{"name":"MangaReader","lang":"en","id":"789561949979941461","baseUrl":"https://mangareader.to"},{"name":"MangaReader","lang":"es","id":"53977152068044610","baseUrl":"https://mangareader.to"},{"name":"MangaReader","lang":"fr","id":"6728122547380666091","baseUrl":"https://mangareader.to"},{"name":"MangaReader","lang":"ja","id":"796170456036421142","baseUrl":"https://mangareader.to"},{"name":"MangaReader","lang":"ko","id":"8303923354296505005","baseUrl":"https://mangareader.to"},{"name":"MangaReader","lang":"pt-BR","id":"381389368808327587","baseUrl":"https://mangareader.to"},{"name":"MangaReader","lang":"zh","id":"7713892655571655420","baseUrl":"https://mangareader.to"}]},{"name":"Tachiyomi: MangaToon (Limited)","pkg":"eu.kanade.tachiyomi.extension.all.mangatoon","apk":"tachiyomi-all.mangatoon-v1.4.5.apk","lang":"all","code":5,"version":"1.4.5","nsfw":0,"sources":[{"name":"MangaToon (Limited)","lang":"zh","id":"5676233752760414531","baseUrl":"https://mangatoon.mobi"},{"name":"MangaToon (Limited)","lang":"en","id":"4795663388852759880","baseUrl":"https://mangatoon.mobi"},{"name":"MangaToon (Limited)","lang":"id","id":"6572636034693050219","baseUrl":"https://mangatoon.mobi"},{"name":"MangaToon (Limited)","lang":"vi","id":"6849356311438092898","baseUrl":"https://mangatoon.mobi"},{"name":"MangaToon (Limited)","lang":"es","id":"958417049187203678","baseUrl":"https://mangatoon.mobi"},{"name":"MangaToon (Limited)","lang":"pt-BR","id":"2064722193112934135","baseUrl":"https://mangatoon.mobi"},{"name":"MangaToon (Limited)","lang":"th","id":"6266226783871841407","baseUrl":"https://mangatoon.mobi"},{"name":"MangaToon (Limited)","lang":"fr","id":"6666752184827525866","baseUrl":"https://mangatoon.mobi"},{"name":"MangaToon (Limited)","lang":"ja","id":"3509597554682217593","baseUrl":"https://mangatoon.mobi"}]},{"name":"Tachiyomi: Manga UP!","pkg":"eu.kanade.tachiyomi.extension.all.mangaup","apk":"tachiyomi-all.mangaup-v1.4.3.apk","lang":"all","code":3,"version":"1.4.3","nsfw":0,"sources":[{"name":"Manga UP!","lang":"en","id":"7689478295161479290","baseUrl":"https://global.manga-up.com"}]},{"name":"Tachiyomi: Mango","pkg":"eu.kanade.tachiyomi.extension.all.mango","apk":"tachiyomi-all.mango-v1.4.9.apk","lang":"all","code":9,"version":"1.4.9","nsfw":0,"sources":[{"name":"Mango","lang":"en","id":"2882993841250976719","baseUrl":""}]},{"name":"Tachiyomi: Manhwa18.cc","pkg":"eu.kanade.tachiyomi.extension.all.manhwa18cc","apk":"tachiyomi-all.manhwa18cc-v1.4.43.apk","lang":"all","code":43,"version":"1.4.43","nsfw":1,"sources":[{"name":"Manhwa18.cc","lang":"en","id":"4841602236575491202","baseUrl":"https://manhwa18.cc"},{"name":"Manhwa18.cc","lang":"ko","id":"6864643444164576223","baseUrl":"https://manhwa18.cc"},{"name":"Manhwa18.cc","lang":"all","id":"993336618407081332","baseUrl":"https://manhwa18.cc"}]},{"name":"Tachiyomi: Manhwa18.net","pkg":"eu.kanade.tachiyomi.extension.all.manhwa18net","apk":"tachiyomi-all.manhwa18net-v1.4.10.apk","lang":"all","code":10,"version":"1.4.10","nsfw":1,"sources":[{"name":"Manhwa18.net","lang":"en","id":"687150405919946955","baseUrl":"https://manhwa18.net"}]},{"name":"Tachiyomi: ManhwaClub.net","pkg":"eu.kanade.tachiyomi.extension.all.manhwaclubnet","apk":"tachiyomi-all.manhwaclubnet-v1.4.38.apk","lang":"all","code":38,"version":"1.4.38","nsfw":1,"sources":[{"name":"ManhwaClub.net","lang":"en","id":"6720687475375335817","baseUrl":"https://manhwaclub.net"},{"name":"ManhwaClub.net","lang":"ko","id":"3482736208073357647","baseUrl":"https://manhwaclub.net"}]},{"name":"Tachiyomi: Manhwa-raw","pkg":"eu.kanade.tachiyomi.extension.all.manhwadashraw","apk":"tachiyomi-all.manhwadashraw-v1.4.39.apk","lang":"all","code":39,"version":"1.4.39","nsfw":1,"sources":[{"name":"Manhwa-raw","lang":"all","id":"5617855959190673282","baseUrl":"https://manhwa-raw.com"}]},{"name":"Tachiyomi: Meitua.top","pkg":"eu.kanade.tachiyomi.extension.all.meituatop","apk":"tachiyomi-all.meituatop-v1.4.9.apk","lang":"all","code":9,"version":"1.4.9","nsfw":1,"sources":[{"name":"Meitua.top","lang":"all","id":"2066652761751053456","baseUrl":"https://7a.meitu1.mom"}]},{"name":"Tachiyomi: Metart Hunter","pkg":"eu.kanade.tachiyomi.extension.all.metarthunter","apk":"tachiyomi-all.metarthunter-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":1,"sources":[{"name":"Metart Hunter","lang":"all","id":"3567512546321944475","baseUrl":"https://www.metarthunter.com"}]},{"name":"Tachiyomi: Miau Scan","pkg":"eu.kanade.tachiyomi.extension.all.miauscan","apk":"tachiyomi-all.miauscan-v1.4.35.apk","lang":"all","code":35,"version":"1.4.35","nsfw":0,"sources":[{"name":"Miau Scan","lang":"es","id":"2886862669347225416","baseUrl":"https://zonamiau.com"},{"name":"Miau Scan","lang":"pt-BR","id":"6705370418823255358","baseUrl":"https://zonamiau.com"}]},{"name":"Tachiyomi: Mihentai","pkg":"eu.kanade.tachiyomi.extension.all.mihentai","apk":"tachiyomi-all.mihentai-v1.4.32.apk","lang":"all","code":32,"version":"1.4.32","nsfw":1,"sources":[{"name":"Mihentai","lang":"all","id":"3558188315762724556","baseUrl":"https://mihentai.com"}]},{"name":"Tachiyomi: Mitaku","pkg":"eu.kanade.tachiyomi.extension.all.mitaku","apk":"tachiyomi-all.mitaku-v1.4.2.apk","lang":"all","code":2,"version":"1.4.2","nsfw":1,"sources":[{"name":"Mitaku","lang":"all","id":"7541045796029140694","baseUrl":"https://mitaku.net"}]},{"name":"Tachiyomi: MyReadingManga","pkg":"eu.kanade.tachiyomi.extension.all.myreadingmanga","apk":"tachiyomi-all.myreadingmanga-v1.4.56.apk","lang":"all","code":56,"version":"1.4.56","nsfw":1,"sources":[{"name":"MyReadingManga","lang":"ar","id":"4864082317433034574","baseUrl":"https://myreadingmanga.info"},{"name":"MyReadingManga","lang":"id","id":"8842237058298566885","baseUrl":"https://myreadingmanga.info"},{"name":"MyReadingManga","lang":"zh","id":"8339625080404115366","baseUrl":"https://myreadingmanga.info"},{"name":"MyReadingManga","lang":"en","id":"6318378620301107421","baseUrl":"https://myreadingmanga.info"},{"name":"MyReadingManga","lang":"de","id":"2084769296792806394","baseUrl":"https://myreadingmanga.info"},{"name":"MyReadingManga","lang":"it","id":"3371822795753272045","baseUrl":"https://myreadingmanga.info"},{"name":"MyReadingManga","lang":"ja","id":"7616097631685192755","baseUrl":"https://myreadingmanga.info"},{"name":"MyReadingManga","lang":"ko","id":"8341594492961776810","baseUrl":"https://myreadingmanga.info"},{"name":"MyReadingManga","lang":"pt-BR","id":"7097816699537539700","baseUrl":"https://myreadingmanga.info"},{"name":"MyReadingManga","lang":"ru","id":"4213491422253699699","baseUrl":"https://myreadingmanga.info"},{"name":"MyReadingManga","lang":"es","id":"3547244847403070407","baseUrl":"https://myreadingmanga.info"},{"name":"MyReadingManga","lang":"tr","id":"164535712016830416","baseUrl":"https://myreadingmanga.info"},{"name":"MyReadingManga","lang":"vi","id":"4129272632455883902","baseUrl":"https://myreadingmanga.info"}]},{"name":"Tachiyomi: MyRockManga","pkg":"eu.kanade.tachiyomi.extension.all.myrockmanga","apk":"tachiyomi-all.myrockmanga-v1.4.4.apk","lang":"all","code":4,"version":"1.4.4","nsfw":1,"sources":[{"name":"MyRockManga","lang":"all","id":"2567821685631954922","baseUrl":"https://myrockmanga.com"},{"name":"MyRockManga","lang":"vi","id":"5784177790110368971","baseUrl":"https://myrockmanga.com"},{"name":"MyRockManga","lang":"en","id":"1418603078499719225","baseUrl":"https://myrockmanga.com"},{"name":"MyRockManga","lang":"it","id":"6477540941998092952","baseUrl":"https://myrockmanga.com"},{"name":"MyRockManga","lang":"es","id":"5976824042590895570","baseUrl":"https://myrockmanga.com"}]},{"name":"Tachiyomi: NamiComi","pkg":"eu.kanade.tachiyomi.extension.all.namicomi","apk":"tachiyomi-all.namicomi-v1.4.2.apk","lang":"all","code":2,"version":"1.4.2","nsfw":0,"sources":[{"name":"NamiComi","lang":"en","id":"6815287454679474132","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"ar","id":"7830959603474646022","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"bg","id":"7871287213449294583","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"ca","id":"5335008997233394468","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"zh-Hans","id":"1163192659786040070","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"zh-Hant","id":"7859611418350123856","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"hr","id":"1125922332535233758","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"cs","id":"2037282477963681758","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"da","id":"7548417938714777333","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"nl","id":"4139908687076589734","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"et","id":"1004520286290933688","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"fil","id":"7846542287071503597","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"fi","id":"8873510733793144577","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"fr","id":"2688801006759321823","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"de","id":"6619013782987672377","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"el","id":"7683690509668356869","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"he","id":"961340698570426919","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"hi","id":"5974308089281665684","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"hu","id":"7787558791584052317","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"is","id":"1123824014117121209","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"ga","id":"3535683894794049489","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"id","id":"1325956500558078102","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"it","id":"5975471501347973768","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"ja","id":"6873060443067341608","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"ko","id":"1524915323009957887","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"lt","id":"6196723908897486263","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"ms","id":"6113965282317121452","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"ne","id":"1665825055279512321","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"no","id":"6572043706378944577","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"pa","id":"723436680125197351","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"fa","id":"569401976641132670","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"pl","id":"5296681357952677059","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"pt-BR","id":"1401973320108574400","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"pt","id":"4804474291848639489","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"ru","id":"296214928329015811","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"sk","id":"1406651071058914280","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"sl","id":"1665334647759224307","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"es-419","id":"3720618907480183068","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"es","id":"7482985666811016125","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"sv","id":"4005855460574344551","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"th","id":"6825567325220655211","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"tr","id":"1404231504220588104","baseUrl":"https://namicomi.com"},{"name":"NamiComi","lang":"uk","id":"7458865308108369667","baseUrl":"https://namicomi.com"}]},{"name":"Tachiyomi: NHentai","pkg":"eu.kanade.tachiyomi.extension.all.nhentai","apk":"tachiyomi-all.nhentai-v1.4.50.apk","lang":"all","code":50,"version":"1.4.50","nsfw":1,"sources":[{"name":"NHentai","lang":"en","id":"3122156392225024195","baseUrl":"https://nhentai.net"},{"name":"NHentai","lang":"ja","id":"4726175775739752699","baseUrl":"https://nhentai.net"},{"name":"NHentai","lang":"zh","id":"2203215402871965477","baseUrl":"https://nhentai.net"},{"name":"NHentai","lang":"all","id":"7309872737163460316","baseUrl":"https://nhentai.net"}]},{"name":"Tachiyomi: nHentai.com (unoriginal)","pkg":"eu.kanade.tachiyomi.extension.all.nhentaicom","apk":"tachiyomi-all.nhentaicom-v1.4.6.apk","lang":"all","code":6,"version":"1.4.6","nsfw":1,"sources":[{"name":"nHentai.com (unoriginal)","lang":"all","id":"9165839893600661480","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"en","id":"5591830863732393712","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"zh","id":"8504927104562262528","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"ja","id":"8148939977393580424","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"other","id":"5817327335315373850","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"eo","id":"5464986831390726554","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"ceb","id":"8306394815737846919","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"cs","id":"1144495813995437124","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"ar","id":"1773653553472615327","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"sk","id":"8189813976393792973","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"mn","id":"3640686393110022124","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"uk","id":"1872394332504252034","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"la","id":"6750311061190710079","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"tl","id":"4352420071178605258","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"es","id":"5423915111527486314","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"it","id":"3744610546977132305","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"ko","id":"6508316838749142103","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"th","id":"8747453124413686273","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"pl","id":"101839933940485648","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"fr","id":"228866561747756808","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"pt-BR","id":"2086417689343495410","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"de","id":"4693699466052963324","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"fi","id":"8555144793292118035","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"ru","id":"4336954121393784927","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"hu","id":"4763421699191654674","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"id","id":"46773580351141704","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"vi","id":"6190116525797271593","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"nl","id":"7712211718694688285","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"tr","id":"6423038744951581148","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"el","id":"6038464145206378323","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"bg","id":"5355858532116403799","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"sr","id":"1001519209586733699","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"jv","id":"4984830439465026319","baseUrl":"https://nhentai.com"},{"name":"nHentai.com (unoriginal)","lang":"hi","id":"5088597341675298414","baseUrl":"https://nhentai.com"}]},{"name":"Tachiyomi: NineManga","pkg":"eu.kanade.tachiyomi.extension.all.ninemanga","apk":"tachiyomi-all.ninemanga-v1.4.21.apk","lang":"all","code":21,"version":"1.4.21","nsfw":0,"sources":[{"name":"NineMangaEn","lang":"en","id":"120391793502126753","baseUrl":"https://en.ninemanga.com"},{"name":"NineMangaEs","lang":"es","id":"4097111295486074350","baseUrl":"https://es.ninemanga.com"},{"name":"NineMangaBr","lang":"pt-BR","id":"7162569729467394726","baseUrl":"https://br.ninemanga.com"},{"name":"NineMangaRu","lang":"ru","id":"6531002958728774729","baseUrl":"https://ru.ninemanga.com"},{"name":"NineMangaDe","lang":"de","id":"8454920920230076882","baseUrl":"https://de.ninemanga.com"},{"name":"NineMangaIt","lang":"it","id":"4312023446566221911","baseUrl":"https://it.ninemanga.com"},{"name":"NineMangaFr","lang":"fr","id":"3415116372640359218","baseUrl":"https://fr.ninemanga.com"}]},{"name":"Tachiyomi: AnimeH","pkg":"eu.kanade.tachiyomi.extension.all.ninenineninehentai","apk":"tachiyomi-all.ninenineninehentai-v1.4.7.apk","lang":"all","code":7,"version":"1.4.7","nsfw":1,"sources":[{"name":"AnimeH","lang":"all","id":"5098173700376022513","baseUrl":"https://animeh.to"},{"name":"AnimeH","lang":"en","id":"4370122548313941497","baseUrl":"https://animeh.to"},{"name":"AnimeH","lang":"ja","id":"8948948503520127713","baseUrl":"https://animeh.to"},{"name":"AnimeH","lang":"zh","id":"3874510362699054213","baseUrl":"https://animeh.to"},{"name":"AnimeH","lang":"es","id":"2790053117909987291","baseUrl":"https://animeh.to"}]},{"name":"Tachiyomi: NOISE Manga","pkg":"eu.kanade.tachiyomi.extension.all.noisemanga","apk":"tachiyomi-all.noisemanga-v1.4.5.apk","lang":"all","code":5,"version":"1.4.5","nsfw":0,"sources":[{"name":"NOISE","lang":"en","id":"1027335725931026998","baseUrl":"https://noisemanga.com"},{"name":"NOISE","lang":"pt-BR","id":"8279458690164834090","baseUrl":"https://noisemanga.com"}]},{"name":"Tachiyomi: NovelCool","pkg":"eu.kanade.tachiyomi.extension.all.novelcool","apk":"tachiyomi-all.novelcool-v1.4.3.apk","lang":"all","code":3,"version":"1.4.3","nsfw":1,"sources":[{"name":"NovelCool","lang":"en","id":"7570101320206504111","baseUrl":"https://www.novelcool.com"},{"name":"NovelCool","lang":"es","id":"438359803442833644","baseUrl":"https://es.novelcool.com"},{"name":"NovelCool","lang":"de","id":"4806085996472938237","baseUrl":"https://de.novelcool.com"},{"name":"NovelCool","lang":"ru","id":"2000643041937250352","baseUrl":"https://ru.novelcool.com"},{"name":"NovelCool","lang":"it","id":"1430309870605719983","baseUrl":"https://it.novelcool.com"},{"name":"NovelCool","lang":"pt-BR","id":"2431307934077353736","baseUrl":"https://br.novelcool.com"},{"name":"NovelCool","lang":"fr","id":"1619259951234748770","baseUrl":"https://fr.novelcool.com"}]},{"name":"Tachiyomi: Otaku Sanctuary","pkg":"eu.kanade.tachiyomi.extension.all.otakusanctuary","apk":"tachiyomi-all.otakusanctuary-v1.4.6.apk","lang":"all","code":6,"version":"1.4.6","nsfw":1,"sources":[{"name":"Otaku Sanctuary","lang":"all","id":"6202136521654555507","baseUrl":"https://otakusan.me"},{"name":"Otaku Sanctuary","lang":"vi","id":"535683348681357931","baseUrl":"https://otakusan.me"},{"name":"Otaku Sanctuary","lang":"en","id":"5984016495600750670","baseUrl":"https://otakusan.me"},{"name":"Otaku Sanctuary","lang":"it","id":"2831689775722886708","baseUrl":"https://otakusan.me"},{"name":"Otaku Sanctuary","lang":"fr","id":"8524319665390149182","baseUrl":"https://otakusan.me"},{"name":"Otaku Sanctuary","lang":"es","id":"6403460862880262722","baseUrl":"https://otakusan.me"}]},{"name":"Tachiyomi: PandaChaika","pkg":"eu.kanade.tachiyomi.extension.all.pandachaika","apk":"tachiyomi-all.pandachaika-v1.4.2.apk","lang":"all","code":2,"version":"1.4.2","nsfw":1,"sources":[{"name":"PandaChaika","lang":"all","id":"8212157560459310944","baseUrl":"https://panda.chaika.moe"},{"name":"PandaChaika","lang":"en","id":"3599272016034823454","baseUrl":"https://panda.chaika.moe"},{"name":"PandaChaika","lang":"zh","id":"7139811400769884559","baseUrl":"https://panda.chaika.moe"},{"name":"PandaChaika","lang":"ko","id":"7369333952028993476","baseUrl":"https://panda.chaika.moe"},{"name":"PandaChaika","lang":"es","id":"627361661169334808","baseUrl":"https://panda.chaika.moe"},{"name":"PandaChaika","lang":"ru","id":"5221951741432177903","baseUrl":"https://panda.chaika.moe"},{"name":"PandaChaika","lang":"pt","id":"1651657038100823298","baseUrl":"https://panda.chaika.moe"},{"name":"PandaChaika","lang":"fr","id":"7652967240448142818","baseUrl":"https://panda.chaika.moe"},{"name":"PandaChaika","lang":"th","id":"1932020840797180157","baseUrl":"https://panda.chaika.moe"},{"name":"PandaChaika","lang":"vi","id":"2772885510390273147","baseUrl":"https://panda.chaika.moe"},{"name":"PandaChaika","lang":"ja","id":"3512076228855715276","baseUrl":"https://panda.chaika.moe"},{"name":"PandaChaika","lang":"id","id":"2553504349329211397","baseUrl":"https://panda.chaika.moe"},{"name":"PandaChaika","lang":"ar","id":"6895465518314218980","baseUrl":"https://panda.chaika.moe"},{"name":"PandaChaika","lang":"uk","id":"1808484200237690514","baseUrl":"https://panda.chaika.moe"},{"name":"PandaChaika","lang":"tr","id":"6830559705127350757","baseUrl":"https://panda.chaika.moe"},{"name":"PandaChaika","lang":"cs","id":"4709631253767612322","baseUrl":"https://panda.chaika.moe"},{"name":"PandaChaika","lang":"tl","id":"6984430285308868948","baseUrl":"https://panda.chaika.moe"},{"name":"PandaChaika","lang":"fi","id":"5347846950927890201","baseUrl":"https://panda.chaika.moe"},{"name":"PandaChaika","lang":"jv","id":"5421363896303671586","baseUrl":"https://panda.chaika.moe"},{"name":"PandaChaika","lang":"el","id":"8814661622406768937","baseUrl":"https://panda.chaika.moe"}]},{"name":"Tachiyomi: Pepper&Carrot","pkg":"eu.kanade.tachiyomi.extension.all.peppercarrot","apk":"tachiyomi-all.peppercarrot-v1.4.2.apk","lang":"all","code":2,"version":"1.4.2","nsfw":0,"sources":[{"name":"Pepper&Carrot","lang":"all","id":"279282683217001983","baseUrl":"https://www.peppercarrot.com"}]},{"name":"Tachiyomi: Photos18","pkg":"eu.kanade.tachiyomi.extension.all.photos18","apk":"tachiyomi-all.photos18-v1.4.5.apk","lang":"all","code":5,"version":"1.4.5","nsfw":1,"sources":[{"name":"Photos18","lang":"all","id":"225835804698740720","baseUrl":"https://www.photos18.com"}]},{"name":"Tachiyomi: Pixiv","pkg":"eu.kanade.tachiyomi.extension.all.pixiv","apk":"tachiyomi-all.pixiv-v1.4.9.apk","lang":"all","code":9,"version":"1.4.9","nsfw":1,"sources":[{"name":"Pixiv","lang":"ja","id":"2134233417037741790","baseUrl":"https://www.pixiv.net"},{"name":"Pixiv","lang":"en","id":"4964829535501435742","baseUrl":"https://www.pixiv.net"},{"name":"Pixiv","lang":"ko","id":"5123765142540943901","baseUrl":"https://www.pixiv.net"},{"name":"Pixiv","lang":"zh","id":"6934645150441404855","baseUrl":"https://www.pixiv.net"}]},{"name":"Tachiyomi: Playmate Hunter","pkg":"eu.kanade.tachiyomi.extension.all.playmatehunter","apk":"tachiyomi-all.playmatehunter-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":1,"sources":[{"name":"Playmate Hunter","lang":"all","id":"1082062847119890629","baseUrl":"https://pmatehunter.com"}]},{"name":"Tachiyomi: Project Suki","pkg":"eu.kanade.tachiyomi.extension.all.projectsuki","apk":"tachiyomi-all.projectsuki-v1.4.4.apk","lang":"all","code":4,"version":"1.4.4","nsfw":0,"sources":[{"name":"Project Suki","lang":"all","id":"8965918600406781666","baseUrl":"https://projectsuki.com/"}]},{"name":"Tachiyomi: Pururin","pkg":"eu.kanade.tachiyomi.extension.all.pururin","apk":"tachiyomi-all.pururin-v1.4.10.apk","lang":"all","code":10,"version":"1.4.10","nsfw":1,"sources":[{"name":"Pururin","lang":"all","id":"4326152278746463981","baseUrl":"https://pururin.me"},{"name":"Pururin","lang":"en","id":"2221515250486218861","baseUrl":"https://pururin.me"},{"name":"Pururin","lang":"ja","id":"995946880114959182","baseUrl":"https://pururin.me"}]},{"name":"Tachiyomi: Ravens Scans","pkg":"eu.kanade.tachiyomi.extension.all.ravensscans","apk":"tachiyomi-all.ravensscans-v1.4.8.apk","lang":"all","code":8,"version":"1.4.8","nsfw":1,"sources":[{"name":"Ravens Scans","lang":"es","id":"3898735006375441235","baseUrl":"https://ravens-scans.com"},{"name":"Ravens Scans","lang":"en","id":"2182293259752111417","baseUrl":"https://ravens-scans.com"}]},{"name":"Tachiyomi: Sandra and Woo","pkg":"eu.kanade.tachiyomi.extension.all.sandraandwoo","apk":"tachiyomi-all.sandraandwoo-v1.4.2.apk","lang":"all","code":2,"version":"1.4.2","nsfw":0,"sources":[{"name":"Sandra und Woo","lang":"de","id":"8111958912268118735","baseUrl":"https://www.sandraandwoo.com"},{"name":"Sandra and Woo","lang":"en","id":"8566345145646340492","baseUrl":"https://www.sandraandwoo.com"}]},{"name":"Tachiyomi: Simply Cosplay","pkg":"eu.kanade.tachiyomi.extension.all.simplycosplay","apk":"tachiyomi-all.simplycosplay-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":1,"sources":[{"name":"Simply Cosplay","lang":"all","id":"5522274089781089670","baseUrl":"https://www.simply-cosplay.com"}]},{"name":"Tachiyomi: Simply Hentai","pkg":"eu.kanade.tachiyomi.extension.all.simplyhentai","apk":"tachiyomi-all.simplyhentai-v1.4.7.apk","lang":"all","code":7,"version":"1.4.7","nsfw":1,"sources":[{"name":"Simply Hentai","lang":"en","id":"298934354390867671","baseUrl":"https://www.simply-hentai.com"},{"name":"Simply Hentai","lang":"ja","id":"752674984993743406","baseUrl":"https://www.simply-hentai.com"},{"name":"Simply Hentai","lang":"zh","id":"6411097384584116028","baseUrl":"https://www.simply-hentai.com"},{"name":"Simply Hentai","lang":"ko","id":"5425671014693930239","baseUrl":"https://www.simply-hentai.com"},{"name":"Simply Hentai","lang":"es","id":"666623320329622877","baseUrl":"https://www.simply-hentai.com"},{"name":"Simply Hentai","lang":"ru","id":"5942590313591365439","baseUrl":"https://www.simply-hentai.com"},{"name":"Simply Hentai","lang":"fr","id":"4451316190554848827","baseUrl":"https://www.simply-hentai.com"},{"name":"Simply Hentai","lang":"de","id":"5791709100642569951","baseUrl":"https://www.simply-hentai.com"},{"name":"Simply Hentai","lang":"it","id":"9142653224816805805","baseUrl":"https://www.simply-hentai.com"},{"name":"Simply Hentai","lang":"pl","id":"2725673328914321866","baseUrl":"https://www.simply-hentai.com"}]},{"name":"Tachiyomi: Snow Machine Translations","pkg":"eu.kanade.tachiyomi.extension.all.snowmtl","apk":"tachiyomi-all.snowmtl-v1.4.8.apk","lang":"all","code":8,"version":"1.4.8","nsfw":1,"sources":[{"name":"Snow Machine Translations","lang":"en","id":"4081896837386227017","baseUrl":"https://snowmtl.ru"},{"name":"Snow Machine Translations","lang":"es","id":"3745825547128290234","baseUrl":"https://snowmtl.ru"},{"name":"Snow Machine Translations","lang":"id","id":"6145898756643108632","baseUrl":"https://snowmtl.ru"},{"name":"Snow Machine Translations","lang":"it","id":"6739293713685351908","baseUrl":"https://snowmtl.ru"},{"name":"Snow Machine Translations","lang":"pt-BR","id":"2403930281757492771","baseUrl":"https://snowmtl.ru"}]},{"name":"Tachiyomi: Solar Machine Translations","pkg":"eu.kanade.tachiyomi.extension.all.solarmtl","apk":"tachiyomi-all.solarmtl-v1.4.2.apk","lang":"all","code":2,"version":"1.4.2","nsfw":1,"sources":[{"name":"Solar Machine Translations","lang":"en","id":"259790152045733571","baseUrl":"https://solarmtl.com"},{"name":"Solar Machine Translations","lang":"fr","id":"8848430663030554671","baseUrl":"https://solarmtl.com"},{"name":"Solar Machine Translations","lang":"pt-BR","id":"7753226890814033342","baseUrl":"https://solarmtl.com"}]},{"name":"Tachiyomi: Taddy INK (Webtoons)","pkg":"eu.kanade.tachiyomi.extension.all.taddyink","apk":"tachiyomi-all.taddyink-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":0,"sources":[{"name":"Taddy INK (Webtoons)","lang":"all","id":"2332326521515456967","baseUrl":"https://taddy.org"}]},{"name":"Tachiyomi: Tappytoon","pkg":"eu.kanade.tachiyomi.extension.all.tappytoon","apk":"tachiyomi-all.tappytoon-v1.4.7.apk","lang":"all","code":7,"version":"1.4.7","nsfw":1,"sources":[{"name":"Tappytoon","lang":"en","id":"7049142072741547166","baseUrl":"https://www.tappytoon.com/en"},{"name":"Tappytoon","lang":"fr","id":"8311223969496865438","baseUrl":"https://www.tappytoon.com/fr"},{"name":"Tappytoon","lang":"de","id":"8708489334089410870","baseUrl":"https://www.tappytoon.com/de"}]},{"name":"Tachiyomi: The Library of Ohara","pkg":"eu.kanade.tachiyomi.extension.all.thelibraryofohara","apk":"tachiyomi-all.thelibraryofohara-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":0,"sources":[{"name":"The Library of Ohara","lang":"id","id":"4379246890416497052","baseUrl":"https://thelibraryofohara.com"},{"name":"The Library of Ohara","lang":"en","id":"2727140669803764425","baseUrl":"https://thelibraryofohara.com"},{"name":"The Library of Ohara","lang":"es","id":"1081764220356482621","baseUrl":"https://thelibraryofohara.com"},{"name":"The Library of Ohara","lang":"it","id":"282587253597010652","baseUrl":"https://thelibraryofohara.com"},{"name":"The Library of Ohara","lang":"ar","id":"8205252065972088770","baseUrl":"https://thelibraryofohara.com"},{"name":"The Library of Ohara","lang":"fr","id":"7219503638837099253","baseUrl":"https://thelibraryofohara.com"}]},{"name":"Tachiyomi: Thunder Scans","pkg":"eu.kanade.tachiyomi.extension.all.thunderscans","apk":"tachiyomi-all.thunderscans-v1.4.39.apk","lang":"all","code":39,"version":"1.4.39","nsfw":0,"sources":[{"name":"Lava Scans","lang":"ar","id":"3209001028102012989","baseUrl":"https://lavatoons.com"},{"name":"Thunder Scans","lang":"en","id":"2848420679472350044","baseUrl":"https://en-thunderscans.com"}]},{"name":"Tachiyomi: Toomics","pkg":"eu.kanade.tachiyomi.extension.all.toomics","apk":"tachiyomi-all.toomics-v1.4.8.apk","lang":"all","code":8,"version":"1.4.8","nsfw":1,"sources":[{"name":"Toomics (Only free chapters)","lang":"en","id":"7004582542854505662","baseUrl":"https://global.toomics.com"},{"name":"Toomics (Only free chapters)","lang":"zh-Hans","id":"2191753978421234924","baseUrl":"https://global.toomics.com"},{"name":"Toomics (Only free chapters)","lang":"zh-Hant","id":"371640888113435809","baseUrl":"https://global.toomics.com"},{"name":"Toomics (Only free chapters)","lang":"es-419","id":"7362369816539610504","baseUrl":"https://global.toomics.com"},{"name":"Toomics (Only free chapters)","lang":"es","id":"4863693274136077953","baseUrl":"https://global.toomics.com"},{"name":"Toomics (Only free chapters)","lang":"it","id":"7652402685655897221","baseUrl":"https://global.toomics.com"},{"name":"Toomics (Only free chapters)","lang":"de","id":"4230797637510582729","baseUrl":"https://global.toomics.com"},{"name":"Toomics (Only free chapters)","lang":"fr","id":"2289891939341407590","baseUrl":"https://global.toomics.com"},{"name":"Toomics (Only free chapters)","lang":"pt-BR","id":"4488498756724948818","baseUrl":"https://global.toomics.com"}]},{"name":"Tachiyomi: Twicomi","pkg":"eu.kanade.tachiyomi.extension.all.twicomi","apk":"tachiyomi-all.twicomi-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":1,"sources":[{"name":"Twicomi","lang":"all","id":"4589056979500242728","baseUrl":"https://twicomi.com"}]},{"name":"Tachiyomi: Vinne Veritas - CCC","pkg":"eu.kanade.tachiyomi.extension.all.vinnieVeritas","apk":"tachiyomi-all.vinnieVeritas-v1.4.2.apk","lang":"all","code":2,"version":"1.4.2","nsfw":0,"sources":[{"name":"Vinnie Veritas - CCC","lang":"en","id":"9005452006043030878","baseUrl":"https://vinnieveritas.com/"},{"name":"Vinnie Veritas - CCC","lang":"es","id":"2264075849201286666","baseUrl":"https://vinnieveritas.com/"}]},{"name":"Tachiyomi: Webtoons.com","pkg":"eu.kanade.tachiyomi.extension.all.webtoons","apk":"tachiyomi-all.webtoons-v1.4.41.apk","lang":"all","code":41,"version":"1.4.41","nsfw":0,"sources":[{"name":"Webtoons.com","lang":"en","id":"2522335540328470744","baseUrl":"https://www.webtoons.com"},{"name":"Webtoons.com","lang":"id","id":"8749627068478740298","baseUrl":"https://www.webtoons.com"},{"name":"Webtoons.com","lang":"th","id":"3330861233813615504","baseUrl":"https://www.webtoons.com"},{"name":"Webtoons.com","lang":"es","id":"8664735734660636295","baseUrl":"https://www.webtoons.com"},{"name":"Webtoons.com","lang":"fr","id":"8251758253314457060","baseUrl":"https://www.webtoons.com"},{"name":"Webtoons.com","lang":"zh-Hant","id":"2959982438613576472","baseUrl":"https://www.webtoons.com"},{"name":"Webtoons.com","lang":"de","id":"1486822823904297379","baseUrl":"https://www.webtoons.com"}]},{"name":"Tachiyomi: Webtoons.com Translations","pkg":"eu.kanade.tachiyomi.extension.all.webtoonstranslate","apk":"tachiyomi-all.webtoonstranslate-v1.4.6.apk","lang":"all","code":6,"version":"1.4.6","nsfw":0,"sources":[{"name":"Webtoons.com Translations","lang":"en","id":"2909932855774980787","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"zh-Hans","id":"5196522547754842244","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"zh-Hant","id":"1016181401146312893","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"th","id":"1248510948017593518","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"id","id":"9099625279607630424","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"fr","id":"2713386159585459304","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"vi","id":"1143507468946521173","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"ru","id":"5518139233481768385","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"ar","id":"9095569612750018806","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"fil","id":"987907117607483547","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"de","id":"302426112155791363","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"hi","id":"4813253161935544774","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"it","id":"8380653399820152316","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"ja","id":"3345108299433070920","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"pt-BR","id":"275670196689829558","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"tr","id":"2002577432976464313","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"ms","id":"7152051434914714980","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"pl","id":"945070544642782769","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"pt","id":"9219933036054791613","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"bg","id":"4491686682898882413","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"da","id":"6214674134556873057","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"nl","id":"5395337934603197359","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"ro","id":"1810269772603542057","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"mn","id":"9124030765514623833","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"el","id":"2528465022697416175","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"lt","id":"2309438911174734518","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"cs","id":"5797892749908651281","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"sv","id":"2203611094544482220","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"bn","id":"4087355749124673740","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"fa","id":"491706257185842940","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"uk","id":"6570267890236479931","baseUrl":"https://translate.webtoons.com"},{"name":"Webtoons.com Translations","lang":"es","id":"2663478323844416620","baseUrl":"https://translate.webtoons.com"}]},{"name":"Tachiyomi: XArt Hunter","pkg":"eu.kanade.tachiyomi.extension.all.xarthunter","apk":"tachiyomi-all.xarthunter-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":1,"sources":[{"name":"XArt Hunter","lang":"all","id":"7425515716363969566","baseUrl":"https://www.xarthunter.com"}]},{"name":"Tachiyomi: Xasiat Albums","pkg":"eu.kanade.tachiyomi.extension.all.xasiatalbums","apk":"tachiyomi-all.xasiatalbums-v1.4.1.apk","lang":"all","code":1,"version":"1.4.1","nsfw":1,"sources":[{"name":"XAsiat Albums","lang":"all","id":"7187893778775685546","baseUrl":"https://www.xasiat.com/albums"}]},{"name":"Tachiyomi: Xinmeitulu","pkg":"eu.kanade.tachiyomi.extension.all.xinmeitulu","apk":"tachiyomi-all.xinmeitulu-v1.4.5.apk","lang":"all","code":5,"version":"1.4.5","nsfw":1,"sources":[{"name":"Xinmeitulu","lang":"all","id":"7605572805514532847","baseUrl":"https://www.xinmeitulu.com"}]},{"name":"Tachiyomi: xkcd","pkg":"eu.kanade.tachiyomi.extension.all.xkcd","apk":"tachiyomi-all.xkcd-v1.4.13.apk","lang":"all","code":13,"version":"1.4.13","nsfw":0,"sources":[{"name":"xkcd","lang":"en","id":"1538249443376436084","baseUrl":"https://xkcd.com"},{"name":"xkcd","lang":"es","id":"6901469937775055420","baseUrl":"https://es.xkcd.com"},{"name":"xkcd","lang":"zh","id":"8162821425156695837","baseUrl":"https://xkcd.tw"},{"name":"xkcd","lang":"fr","id":"987306860406766740","baseUrl":"https://xkcd.lapin.org"},{"name":"xkcd","lang":"ru","id":"3742763978853704441","baseUrl":"https://xkcd.ru"}]},{"name":"Tachiyomi: Yaoi Manga Online","pkg":"eu.kanade.tachiyomi.extension.all.yaoimangaonline","apk":"tachiyomi-all.yaoimangaonline-v1.4.3.apk","lang":"all","code":3,"version":"1.4.3","nsfw":1,"sources":[{"name":"Yaoi Manga Online","lang":"all","id":"7988826691692266469","baseUrl":"https://yaoimangaonline.com"}]},{"name":"Tachiyomi: Arabs Doujin","pkg":"eu.kanade.tachiyomi.extension.ar.arabsdoujin","apk":"tachiyomi-ar.arabsdoujin-v1.4.10.apk","lang":"ar","code":10,"version":"1.4.10","nsfw":1,"sources":[{"name":"Arabs Doujin","lang":"ar","id":"6818709036814540480","baseUrl":"https://www.arabsdoujin.online"}]},{"name":"Tachiyomi: Arabs Hentai","pkg":"eu.kanade.tachiyomi.extension.ar.arabshentai","apk":"tachiyomi-ar.arabshentai-v1.4.2.apk","lang":"ar","code":2,"version":"1.4.2","nsfw":1,"sources":[{"name":"هنتاي العرب","lang":"ar","id":"3472625749271868375","baseUrl":"https://arabshentai.com"}]},{"name":"Tachiyomi: Arab Toons","pkg":"eu.kanade.tachiyomi.extension.ar.arabtoons","apk":"tachiyomi-ar.arabtoons-v1.4.38.apk","lang":"ar","code":38,"version":"1.4.38","nsfw":1,"sources":[{"name":"عرب تونز","lang":"ar","id":"2424761902286195560","baseUrl":"https://arabtoons.net"}]},{"name":"Tachiyomi: Area Manga","pkg":"eu.kanade.tachiyomi.extension.ar.areamanga","apk":"tachiyomi-ar.areamanga-v1.4.31.apk","lang":"ar","code":31,"version":"1.4.31","nsfw":0,"sources":[{"name":"أريا مانجا","lang":"ar","id":"8112280317896333809","baseUrl":"https://ar.kenmanga.com"}]},{"name":"Tachiyomi: Area Scans","pkg":"eu.kanade.tachiyomi.extension.ar.areascans","apk":"tachiyomi-ar.areascans-v1.4.32.apk","lang":"ar","code":32,"version":"1.4.32","nsfw":0,"sources":[{"name":"Area Scans","lang":"ar","id":"241593018172482505","baseUrl":"https://ar.areascans.org"}]},{"name":"Tachiyomi: SCARManga","pkg":"eu.kanade.tachiyomi.extension.ar.aresnov","apk":"tachiyomi-ar.aresnov-v1.4.32.apk","lang":"ar","code":32,"version":"1.4.32","nsfw":0,"sources":[{"name":"SCARManga","lang":"ar","id":"1046935749022479891","baseUrl":"https://scarmanga.com"}]},{"name":"Tachiyomi: Azora","pkg":"eu.kanade.tachiyomi.extension.ar.azora","apk":"tachiyomi-ar.azora-v1.4.46.apk","lang":"ar","code":46,"version":"1.4.46","nsfw":0,"sources":[{"name":"Azora","lang":"ar","id":"3544999809861403189","baseUrl":"https://azoramoon.com"}]},{"name":"Tachiyomi: Umi Manga","pkg":"eu.kanade.tachiyomi.extension.ar.beastscans","apk":"tachiyomi-ar.beastscans-v1.4.33.apk","lang":"ar","code":33,"version":"1.4.33","nsfw":0,"sources":[{"name":"Umi Manga","lang":"ar","id":"6404296554681042513","baseUrl":"https://www.umimanga.com"}]},{"name":"Tachiyomi: Comic Arab","pkg":"eu.kanade.tachiyomi.extension.ar.comicarab","apk":"tachiyomi-ar.comicarab-v1.4.38.apk","lang":"ar","code":38,"version":"1.4.38","nsfw":1,"sources":[{"name":"كوميك العرب","lang":"ar","id":"1368425228570324900","baseUrl":"https://comicarab.com"}]},{"name":"Tachiyomi: Hadess","pkg":"eu.kanade.tachiyomi.extension.ar.crowscans","apk":"tachiyomi-ar.crowscans-v1.4.38.apk","lang":"ar","code":38,"version":"1.4.38","nsfw":0,"sources":[{"name":"Hadess","lang":"ar","id":"5952392608448542590","baseUrl":"https://www.hadess.xyz"}]},{"name":"Tachiyomi: Detective Conan Ar","pkg":"eu.kanade.tachiyomi.extension.ar.detectiveconanar","apk":"tachiyomi-ar.detectiveconanar-v1.4.40.apk","lang":"ar","code":40,"version":"1.4.40","nsfw":0,"sources":[{"name":"شبكة كونان العربية","lang":"ar","id":"5702082694566979718","baseUrl":"https://manga.detectiveconanar.com"}]},{"name":"Tachiyomi: Dilar","pkg":"eu.kanade.tachiyomi.extension.ar.dilar","apk":"tachiyomi-ar.dilar-v1.4.5.apk","lang":"ar","code":5,"version":"1.4.5","nsfw":0,"sources":[{"name":"Dilar","lang":"ar","id":"6272541812251031526","baseUrl":"https://dilar.tube#, https://golden.rest"}]},{"name":"Tachiyomi: Empire Webtoon","pkg":"eu.kanade.tachiyomi.extension.ar.empirewebtoon","apk":"tachiyomi-ar.empirewebtoon-v1.4.42.apk","lang":"ar","code":42,"version":"1.4.42","nsfw":1,"sources":[{"name":"Empire Webtoon","lang":"ar","id":"2655166136445570124","baseUrl":"https://webtoonempire-ron.com"}]},{"name":"Tachiyomi: Gatemanga","pkg":"eu.kanade.tachiyomi.extension.ar.gatemanga","apk":"tachiyomi-ar.gatemanga-v1.4.40.apk","lang":"ar","code":40,"version":"1.4.40","nsfw":0,"sources":[{"name":"Gatemanga","lang":"ar","id":"4649127272579120744","baseUrl":"https://gatemanga.com"}]},{"name":"Tachiyomi: GMANGA (unoriginal)","pkg":"eu.kanade.tachiyomi.extension.ar.gmangasite","apk":"tachiyomi-ar.gmangasite-v1.4.38.apk","lang":"ar","code":38,"version":"1.4.38","nsfw":0,"sources":[{"name":"GMANGA (unoriginal)","lang":"ar","id":"6673243060631219217","baseUrl":"https://gmanga.site"}]},{"name":"Tachiyomi: Hentai Slayer","pkg":"eu.kanade.tachiyomi.extension.ar.hentaislayer","apk":"tachiyomi-ar.hentaislayer-v1.4.3.apk","lang":"ar","code":3,"version":"1.4.3","nsfw":1,"sources":[{"name":"هنتاي سلاير","lang":"ar","id":"1383489648660567366","baseUrl":"https://hentaislayer.net"}]},{"name":"Tachiyomi: Hijala","pkg":"eu.kanade.tachiyomi.extension.ar.hijala","apk":"tachiyomi-ar.hijala-v1.4.32.apk","lang":"ar","code":32,"version":"1.4.32","nsfw":0,"sources":[{"name":"Hijala","lang":"ar","id":"917436262447415426","baseUrl":"https://hijala.com"}]},{"name":"Tachiyomi: ARESManga","pkg":"eu.kanade.tachiyomi.extension.ar.iimanga","apk":"tachiyomi-ar.iimanga-v1.4.33.apk","lang":"ar","code":33,"version":"1.4.33","nsfw":0,"sources":[{"name":"ARESManga","lang":"ar","id":"230017529540228175","baseUrl":"https://fl-ares.com"}]},{"name":"Tachiyomi: Loner Translations","pkg":"eu.kanade.tachiyomi.extension.ar.lonertranslations","apk":"tachiyomi-ar.lonertranslations-v1.4.10.apk","lang":"ar","code":10,"version":"1.4.10","nsfw":0,"sources":[{"name":"Loner Translations","lang":"ar","id":"323105186892383931","baseUrl":"https://loner-tl.blogspot.com"}]},{"name":"Tachiyomi: 3asq","pkg":"eu.kanade.tachiyomi.extension.ar.manga3asq","apk":"tachiyomi-ar.manga3asq-v1.4.40.apk","lang":"ar","code":40,"version":"1.4.40","nsfw":0,"sources":[{"name":"مانجا العاشق","lang":"ar","id":"1073624495230267708","baseUrl":"https://3asq.org"}]},{"name":"Tachiyomi: Manga.ae","pkg":"eu.kanade.tachiyomi.extension.ar.mangaae","apk":"tachiyomi-ar.mangaae-v1.4.13.apk","lang":"ar","code":13,"version":"1.4.13","nsfw":0,"sources":[{"name":"مانجا العرب","lang":"ar","id":"8899980966961724489","baseUrl":"https://mangaae.com#, https://mangaat.com#, https://mngaar.com"}]},{"name":"Tachiyomi: Manga Ai Land","pkg":"eu.kanade.tachiyomi.extension.ar.mangaailand","apk":"tachiyomi-ar.mangaailand-v1.4.10.apk","lang":"ar","code":10,"version":"1.4.10","nsfw":0,"sources":[{"name":"Manga Ai Land","lang":"ar","id":"7109397520501699498","baseUrl":"https://manga-ai-land.blogspot.com"}]},{"name":"Tachiyomi: Manga Flame","pkg":"eu.kanade.tachiyomi.extension.ar.mangaflame","apk":"tachiyomi-ar.mangaflame-v1.4.33.apk","lang":"ar","code":33,"version":"1.4.33","nsfw":0,"sources":[{"name":"Manga Flame","lang":"ar","id":"1501237443119573205","baseUrl":"https://mangaflame.org"}]},{"name":"Tachiyomi: MangaHub","pkg":"eu.kanade.tachiyomi.extension.ar.mangahub","apk":"tachiyomi-ar.mangahub-v1.4.10.apk","lang":"ar","code":10,"version":"1.4.10","nsfw":1,"sources":[{"name":"MangaHub","lang":"ar","id":"9160891278578525988","baseUrl":"https://www.mangahub.link"}]},{"name":"Tachiyomi: Mangalek","pkg":"eu.kanade.tachiyomi.extension.ar.mangalek","apk":"tachiyomi-ar.mangalek-v1.4.45.apk","lang":"ar","code":45,"version":"1.4.45","nsfw":0,"sources":[{"name":"مانجا ليك","lang":"ar","id":"918460697583900080","baseUrl":"https://lekmanga.net#, https://lekmanga.org#, https://like-manga.net#, https://lekmanga.com#, https://manga-leko.org"}]},{"name":"Tachiyomi: Mangalink","pkg":"eu.kanade.tachiyomi.extension.ar.mangalink","apk":"tachiyomi-ar.mangalink-v1.4.41.apk","lang":"ar","code":41,"version":"1.4.41","nsfw":0,"sources":[{"name":"مانجا لينك","lang":"ar","id":"3568795724496898351","baseUrl":"https://link-manga.com"}]},{"name":"Tachiyomi: MangaLionz","pkg":"eu.kanade.tachiyomi.extension.ar.mangalionz","apk":"tachiyomi-ar.mangalionz-v1.4.42.apk","lang":"ar","code":42,"version":"1.4.42","nsfw":0,"sources":[{"name":"MangaLionz","lang":"ar","id":"2589550143244611118","baseUrl":"https://manga-lionz.com"}]},{"name":"Tachiyomi: MangaNoon","pkg":"eu.kanade.tachiyomi.extension.ar.manganoon","apk":"tachiyomi-ar.manganoon-v1.4.38.apk","lang":"ar","code":38,"version":"1.4.38","nsfw":0,"sources":[{"name":"مانجا نون","lang":"ar","id":"3244399826714600926","baseUrl":"https://vrnoin.site"}]},{"name":"Tachiyomi: MangaPeak","pkg":"eu.kanade.tachiyomi.extension.ar.mangapeak","apk":"tachiyomi-ar.mangapeak-v1.4.38.apk","lang":"ar","code":38,"version":"1.4.38","nsfw":0,"sources":[{"name":"MangaPeak","lang":"ar","id":"4230561864524668567","baseUrl":"https://mangapeak.org"}]},{"name":"Tachiyomi: Manga Pro","pkg":"eu.kanade.tachiyomi.extension.ar.mangapro","apk":"tachiyomi-ar.mangapro-v1.4.34.apk","lang":"ar","code":34,"version":"1.4.34","nsfw":0,"sources":[{"name":"Manga Pro","lang":"ar","id":"1250466030789918250","baseUrl":"https://promanga.pro"}]},{"name":"Tachiyomi: MangaRabic","pkg":"eu.kanade.tachiyomi.extension.ar.mangarabic","apk":"tachiyomi-ar.mangarabic-v1.4.40.apk","lang":"ar","code":40,"version":"1.4.40","nsfw":0,"sources":[{"name":"MangaRabic","lang":"ar","id":"909469885483358759","baseUrl":"https://mangarabic.com"}]},{"name":"Tachiyomi: Manga Rose","pkg":"eu.kanade.tachiyomi.extension.ar.mangarose","apk":"tachiyomi-ar.mangarose-v1.4.38.apk","lang":"ar","code":38,"version":"1.4.38","nsfw":0,"sources":[{"name":"Manga Rose","lang":"ar","id":"7107091939235823176","baseUrl":"https://mangarose.net"}]},{"name":"Tachiyomi: Manga Soul","pkg":"eu.kanade.tachiyomi.extension.ar.mangasoul","apk":"tachiyomi-ar.mangasoul-v1.4.10.apk","lang":"ar","code":10,"version":"1.4.10","nsfw":1,"sources":[{"name":"Manga Soul","lang":"ar","id":"7724201714458008379","baseUrl":"https://www.manga-soul.com"}]},{"name":"Tachiyomi: MangaSpark","pkg":"eu.kanade.tachiyomi.extension.ar.mangaspark","apk":"tachiyomi-ar.mangaspark-v1.4.44.apk","lang":"ar","code":44,"version":"1.4.44","nsfw":0,"sources":[{"name":"MangaSpark","lang":"ar","id":"2436176998646301840","baseUrl":"https://manga-spark.net"}]},{"name":"Tachiyomi: Manga Starz","pkg":"eu.kanade.tachiyomi.extension.ar.mangastarz","apk":"tachiyomi-ar.mangastarz-v1.4.45.apk","lang":"ar","code":45,"version":"1.4.45","nsfw":0,"sources":[{"name":"Manga Starz","lang":"ar","id":"6058166507489091982","baseUrl":"https://manga-starz.com"}]},{"name":"Tachiyomi: MangaStorm","pkg":"eu.kanade.tachiyomi.extension.ar.mangastorm","apk":"tachiyomi-ar.mangastorm-v1.4.1.apk","lang":"ar","code":1,"version":"1.4.1","nsfw":0,"sources":[{"name":"MangaStorm","lang":"ar","id":"1541167330805979817","baseUrl":"https://mangastorm.org"}]},{"name":"Tachiyomi: MangaSwat","pkg":"eu.kanade.tachiyomi.extension.ar.mangaswat","apk":"tachiyomi-ar.mangaswat-v1.4.55.apk","lang":"ar","code":55,"version":"1.4.55","nsfw":0,"sources":[{"name":"MangaSwat","lang":"ar","id":"264168699090292138","baseUrl":"https://swatscans.com"}]},{"name":"Tachiyomi: Manga Tales","pkg":"eu.kanade.tachiyomi.extension.ar.mangatales","apk":"tachiyomi-ar.mangatales-v1.4.3.apk","lang":"ar","code":3,"version":"1.4.3","nsfw":0,"sources":[{"name":"Manga Tales","lang":"ar","id":"5218550345649535189","baseUrl":"https://www.mangatales.com"}]},{"name":"Tachiyomi: Manga Time","pkg":"eu.kanade.tachiyomi.extension.ar.mangatime","apk":"tachiyomi-ar.mangatime-v1.4.39.apk","lang":"ar","code":39,"version":"1.4.39","nsfw":0,"sources":[{"name":"Manga Time","lang":"ar","id":"3179348935869327174","baseUrl":"https://mangatime.us"}]},{"name":"Tachiyomi: Manga Trend","pkg":"eu.kanade.tachiyomi.extension.ar.mangatrend","apk":"tachiyomi-ar.mangatrend-v1.4.30.apk","lang":"ar","code":30,"version":"1.4.30","nsfw":0,"sources":[{"name":"Manga Trend","lang":"ar","id":"3509183087698743427","baseUrl":"https://mangaatrend.net"}]},{"name":"Tachiyomi: MangaTuk","pkg":"eu.kanade.tachiyomi.extension.ar.mangatuk","apk":"tachiyomi-ar.mangatuk-v1.4.38.apk","lang":"ar","code":38,"version":"1.4.38","nsfw":1,"sources":[{"name":"MangaTuk","lang":"ar","id":"4205255591548488472","baseUrl":"https://mangatuk.com"}]},{"name":"Tachiyomi: Manhatic","pkg":"eu.kanade.tachiyomi.extension.ar.manhatic","apk":"tachiyomi-ar.manhatic-v1.4.38.apk","lang":"ar","code":38,"version":"1.4.38","nsfw":1,"sources":[{"name":"Manhatic","lang":"ar","id":"152314873890577786","baseUrl":"https://manhatic.com"}]},{"name":"Tachiyomi: Manhatok","pkg":"eu.kanade.tachiyomi.extension.ar.manhatok","apk":"tachiyomi-ar.manhatok-v1.4.10.apk","lang":"ar","code":10,"version":"1.4.10","nsfw":0,"sources":[{"name":"Manhatok","lang":"ar","id":"743599002989616408","baseUrl":"https://manhatok.blogspot.com"}]},{"name":"Tachiyomi: Niji Translations","pkg":"eu.kanade.tachiyomi.extension.ar.nijitranslations","apk":"tachiyomi-ar.nijitranslations-v1.4.39.apk","lang":"ar","code":39,"version":"1.4.39","nsfw":0,"sources":[{"name":"Niji Translations","lang":"ar","id":"2102294221965772686","baseUrl":"https://niji-translations.com"}]},{"name":"Tachiyomi: NoonScan","pkg":"eu.kanade.tachiyomi.extension.ar.noonscan","apk":"tachiyomi-ar.noonscan-v1.4.30.apk","lang":"ar","code":30,"version":"1.4.30","nsfw":0,"sources":[{"name":"نون سكان","lang":"ar","id":"8847288110497505134","baseUrl":"https://noonscan.com"}]},{"name":"Tachiyomi: Olaoe","pkg":"eu.kanade.tachiyomi.extension.ar.olaoe","apk":"tachiyomi-ar.olaoe-v1.4.38.apk","lang":"ar","code":38,"version":"1.4.38","nsfw":0,"sources":[{"name":"Olaoe","lang":"ar","id":"6505349724663768497","baseUrl":"https://olaoe.cyou"}]},{"name":"Tachiyomi: Onma","pkg":"eu.kanade.tachiyomi.extension.ar.onma","apk":"tachiyomi-ar.onma-v1.4.12.apk","lang":"ar","code":12,"version":"1.4.12","nsfw":0,"sources":[{"name":"مانجا اون لاين","lang":"ar","id":"335499577904379512","baseUrl":"https://onma.top"}]},{"name":"Tachiyomi: Paradise BL","pkg":"eu.kanade.tachiyomi.extension.ar.paradisebl","apk":"tachiyomi-ar.paradisebl-v1.4.38.apk","lang":"ar","code":38,"version":"1.4.38","nsfw":1,"sources":[{"name":"Paradise BL","lang":"ar","id":"4957859168133378262","baseUrl":"https://paradise-bl.com"}]},{"name":"Tachiyomi: RE Manga (Arabic)","pkg":"eu.kanade.tachiyomi.extension.ar.remangaarabic","apk":"tachiyomi-ar.remangaarabic-v1.4.2.apk","lang":"ar","code":2,"version":"1.4.2","nsfw":0,"sources":[{"name":"RE Manga","lang":"ar","id":"3856301446711562004","baseUrl":"https://re-manga.com"}]},{"name":"Tachiyomi: Rocks Manga","pkg":"eu.kanade.tachiyomi.extension.ar.rocksmanga","apk":"tachiyomi-ar.rocksmanga-v1.4.40.apk","lang":"ar","code":40,"version":"1.4.40","nsfw":0,"sources":[{"name":"Rocks Manga","lang":"ar","id":"3301038340499911137","baseUrl":"https://rocksmanga.com"}]},{"name":"Tachiyomi: Scans 4u","pkg":"eu.kanade.tachiyomi.extension.ar.scans4u","apk":"tachiyomi-ar.scans4u-v1.4.12.apk","lang":"ar","code":12,"version":"1.4.12","nsfw":0,"sources":[{"name":"Scans 4u","lang":"ar","id":"2102721599186482805","baseUrl":"https://4uscans.com"}]},{"name":"Tachiyomi: Shqqaa Manga","pkg":"eu.kanade.tachiyomi.extension.ar.shqqaa","apk":"tachiyomi-ar.shqqaa-v1.4.2.apk","lang":"ar","code":2,"version":"1.4.2","nsfw":0,"sources":[{"name":"مانجا شقاع","lang":"ar","id":"6262106764679184511","baseUrl":"https://www.shqqaa.com"}]},{"name":"Tachiyomi: StellarSaber","pkg":"eu.kanade.tachiyomi.extension.ar.stellarsaber","apk":"tachiyomi-ar.stellarsaber-v1.4.30.apk","lang":"ar","code":30,"version":"1.4.30","nsfw":0,"sources":[{"name":"StellarSaber","lang":"ar","id":"2142158598125421915","baseUrl":"https://stellarsaber.pro"}]},{"name":"Tachiyomi: Team X","pkg":"eu.kanade.tachiyomi.extension.ar.teamx","apk":"tachiyomi-ar.teamx-v1.4.19.apk","lang":"ar","code":19,"version":"1.4.19","nsfw":0,"sources":[{"name":"Team X","lang":"ar","id":"4110737012647435874","baseUrl":"https://olympustaff.com"}]},{"name":"Tachiyomi: Vex Manga","pkg":"eu.kanade.tachiyomi.extension.ar.vexmanga","apk":"tachiyomi-ar.vexmanga-v1.4.33.apk","lang":"ar","code":33,"version":"1.4.33","nsfw":0,"sources":[{"name":"فيكس مانجا","lang":"ar","id":"4799422441662896170","baseUrl":"https://vexmanga.com"}]},{"name":"Tachiyomi: Yokai","pkg":"eu.kanade.tachiyomi.extension.ar.yokai","apk":"tachiyomi-ar.yokai-v1.4.11.apk","lang":"ar","code":11,"version":"1.4.11","nsfw":0,"sources":[{"name":"Yokai","lang":"ar","id":"4337506350787725909","baseUrl":"https://yokai-team.blogspot.com"}]},{"name":"Tachiyomi: YonaBar","pkg":"eu.kanade.tachiyomi.extension.ar.yonabar","apk":"tachiyomi-ar.yonabar-v1.4.41.apk","lang":"ar","code":41,"version":"1.4.41","nsfw":1,"sources":[{"name":"YonaBar","lang":"ar","id":"1677221088317532348","baseUrl":"https://yonabar.xyz"}]},{"name":"Tachiyomi: Yuri Moon Sub","pkg":"eu.kanade.tachiyomi.extension.ar.yurimoonsub","apk":"tachiyomi-ar.yurimoonsub-v1.4.11.apk","lang":"ar","code":11,"version":"1.4.11","nsfw":1,"sources":[{"name":"Yuri Moon Sub","lang":"ar","id":"7833471811016150678","baseUrl":"https://yurimoonsub.blogspot.com"}]},{"name":"Tachiyomi: Utsukushii","pkg":"eu.kanade.tachiyomi.extension.bg.utsukushii","apk":"tachiyomi-bg.utsukushii-v1.4.13.apk","lang":"bg","code":13,"version":"1.4.13","nsfw":0,"sources":[{"name":"Utsukushii","lang":"bg","id":"4406556873729219957","baseUrl":"https://utsukushii-bg.com"}]},{"name":"Tachiyomi: Fansubs.cat","pkg":"eu.kanade.tachiyomi.extension.ca.fansubscat","apk":"tachiyomi-ca.fansubscat-v1.4.5.apk","lang":"ca","code":5,"version":"1.4.5","nsfw":0,"sources":[{"name":"Fansubs.cat","lang":"ca","id":"3974404971892520732","baseUrl":"https://manga.fansubs.cat"}]},{"name":"Tachiyomi: Hentai.cat","pkg":"eu.kanade.tachiyomi.extension.ca.fansubscathentai","apk":"tachiyomi-ca.fansubscathentai-v1.4.5.apk","lang":"ca","code":5,"version":"1.4.5","nsfw":1,"sources":[{"name":"Hentai.cat","lang":"ca","id":"7575385310756416449","baseUrl":"https://manga.hentai.cat"}]},{"name":"Tachiyomi: Evil production","pkg":"eu.kanade.tachiyomi.extension.cs.evilproduction","apk":"tachiyomi-cs.evilproduction-v1.4.30.apk","lang":"cs","code":30,"version":"1.4.30","nsfw":1,"sources":[{"name":"Evil production","lang":"cs","id":"1108925046016173676","baseUrl":"https://evil-manga.eu"}]},{"name":"Tachiyomi: Manga Tube","pkg":"eu.kanade.tachiyomi.extension.
+        "id": "8112280317896333809",
+        "baseUrl": "https://ar.kenmanga.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Area Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.areascans",
+    "apk": "tachiyomi-ar.areascans-v1.4.32.apk",
+    "lang": "ar",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Area Scans",
+        "lang": "ar",
+        "id": "241593018172482505",
+        "baseUrl": "https://ar.areascans.org"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: SCARManga",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.aresnov",
+    "apk": "tachiyomi-ar.aresnov-v1.4.32.apk",
+    "lang": "ar",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "SCARManga",
+        "lang": "ar",
+        "id": "1046935749022479891",
+        "baseUrl": "https://scarmanga.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Azora",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.azora",
+    "apk": "tachiyomi-ar.azora-v1.4.46.apk",
+    "lang": "ar",
+    "code": 46,
+    "version": "1.4.46",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Azora",
+        "lang": "ar",
+        "id": "3544999809861403189",
+        "baseUrl": "https://azoramoon.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Umi Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.beastscans",
+    "apk": "tachiyomi-ar.beastscans-v1.4.33.apk",
+    "lang": "ar",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Umi Manga",
+        "lang": "ar",
+        "id": "6404296554681042513",
+        "baseUrl": "https://www.umimanga.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Hadess",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.crowscans",
+    "apk": "tachiyomi-ar.crowscans-v1.4.38.apk",
+    "lang": "ar",
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Hadess",
+        "lang": "ar",
+        "id": "5952392608448542590",
+        "baseUrl": "https://www.hadess.xyz"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Detective Conan Ar",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.detectiveconanar",
+    "apk": "tachiyomi-ar.detectiveconanar-v1.4.40.apk",
+    "lang": "ar",
+    "code": 40,
+    "version": "1.4.40",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "شبكة كونان العربية",
+        "lang": "ar",
+        "id": "5702082694566979718",
+        "baseUrl": "https://manga.detectiveconanar.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Dilar",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.dilar",
+    "apk": "tachiyomi-ar.dilar-v1.4.5.apk",
+    "lang": "ar",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Dilar",
+        "lang": "ar",
+        "id": "6272541812251031526",
+        "baseUrl": "https://dilar.tube#, https://golden.rest"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Gatemanga",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.gatemanga",
+    "apk": "tachiyomi-ar.gatemanga-v1.4.40.apk",
+    "lang": "ar",
+    "code": 40,
+    "version": "1.4.40",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Gatemanga",
+        "lang": "ar",
+        "id": "4649127272579120744",
+        "baseUrl": "https://gatemanga.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: GMANGA (unoriginal)",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.gmangasite",
+    "apk": "tachiyomi-ar.gmangasite-v1.4.38.apk",
+    "lang": "ar",
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "GMANGA (unoriginal)",
+        "lang": "ar",
+        "id": "6673243060631219217",
+        "baseUrl": "https://gmanga.site"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Hijala",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.hijala",
+    "apk": "tachiyomi-ar.hijala-v1.4.32.apk",
+    "lang": "ar",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Hijala",
+        "lang": "ar",
+        "id": "917436262447415426",
+        "baseUrl": "https://hijala.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ARESManga",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.iimanga",
+    "apk": "tachiyomi-ar.iimanga-v1.4.33.apk",
+    "lang": "ar",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "ARESManga",
+        "lang": "ar",
+        "id": "230017529540228175",
+        "baseUrl": "https://fl-ares.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Loner Translations",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.lonertranslations",
+    "apk": "tachiyomi-ar.lonertranslations-v1.4.10.apk",
+    "lang": "ar",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Loner Translations",
+        "lang": "ar",
+        "id": "323105186892383931",
+        "baseUrl": "https://loner-tl.blogspot.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: 3asq",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.manga3asq",
+    "apk": "tachiyomi-ar.manga3asq-v1.4.40.apk",
+    "lang": "ar",
+    "code": 40,
+    "version": "1.4.40",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "مانجا العاشق",
+        "lang": "ar",
+        "id": "1073624495230267708",
+        "baseUrl": "https://3asq.org"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga.ae",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangaae",
+    "apk": "tachiyomi-ar.mangaae-v1.4.13.apk",
+    "lang": "ar",
+    "code": 13,
+    "version": "1.4.13",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "مانجا العرب",
+        "lang": "ar",
+        "id": "8899980966961724489",
+        "baseUrl": "https://mangaae.com#, https://mangaat.com#, https://mngaar.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Ai Land",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangaailand",
+    "apk": "tachiyomi-ar.mangaailand-v1.4.10.apk",
+    "lang": "ar",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manga Ai Land",
+        "lang": "ar",
+        "id": "7109397520501699498",
+        "baseUrl": "https://manga-ai-land.blogspot.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Flame",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangaflame",
+    "apk": "tachiyomi-ar.mangaflame-v1.4.33.apk",
+    "lang": "ar",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manga Flame",
+        "lang": "ar",
+        "id": "1501237443119573205",
+        "baseUrl": "https://mangaflame.org"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Mangalek",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangalek",
+    "apk": "tachiyomi-ar.mangalek-v1.4.45.apk",
+    "lang": "ar",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "مانجا ليك",
+        "lang": "ar",
+        "id": "918460697583900080",
+        "baseUrl": "https://lekmanga.net#, https://lekmanga.org#, https://like-manga.net#, https://lekmanga.com#, https://manga-leko.org"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Mangalink",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangalink",
+    "apk": "tachiyomi-ar.mangalink-v1.4.41.apk",
+    "lang": "ar",
+    "code": 41,
+    "version": "1.4.41",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "مانجا لينك",
+        "lang": "ar",
+        "id": "3568795724496898351",
+        "baseUrl": "https://link-manga.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaLionz",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangalionz",
+    "apk": "tachiyomi-ar.mangalionz-v1.4.42.apk",
+    "lang": "ar",
+    "code": 42,
+    "version": "1.4.42",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaLionz",
+        "lang": "ar",
+        "id": "2589550143244611118",
+        "baseUrl": "https://manga-lionz.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaNoon",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.manganoon",
+    "apk": "tachiyomi-ar.manganoon-v1.4.38.apk",
+    "lang": "ar",
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "مانجا نون",
+        "lang": "ar",
+        "id": "3244399826714600926",
+        "baseUrl": "https://vrnoin.site"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaPeak",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangapeak",
+    "apk": "tachiyomi-ar.mangapeak-v1.4.38.apk",
+    "lang": "ar",
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaPeak",
+        "lang": "ar",
+        "id": "4230561864524668567",
+        "baseUrl": "https://mangapeak.org"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Pro",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangapro",
+    "apk": "tachiyomi-ar.mangapro-v1.4.34.apk",
+    "lang": "ar",
+    "code": 34,
+    "version": "1.4.34",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manga Pro",
+        "lang": "ar",
+        "id": "1250466030789918250",
+        "baseUrl": "https://promanga.pro"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaRabic",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangarabic",
+    "apk": "tachiyomi-ar.mangarabic-v1.4.40.apk",
+    "lang": "ar",
+    "code": 40,
+    "version": "1.4.40",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaRabic",
+        "lang": "ar",
+        "id": "909469885483358759",
+        "baseUrl": "https://mangarabic.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Rose",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangarose",
+    "apk": "tachiyomi-ar.mangarose-v1.4.38.apk",
+    "lang": "ar",
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manga Rose",
+        "lang": "ar",
+        "id": "7107091939235823176",
+        "baseUrl": "https://mangarose.net"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaSpark",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangaspark",
+    "apk": "tachiyomi-ar.mangaspark-v1.4.44.apk",
+    "lang": "ar",
+    "code": 44,
+    "version": "1.4.44",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaSpark",
+        "lang": "ar",
+        "id": "2436176998646301840",
+        "baseUrl": "https://manga-spark.net"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Starz",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangastarz",
+    "apk": "tachiyomi-ar.mangastarz-v1.4.45.apk",
+    "lang": "ar",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manga Starz",
+        "lang": "ar",
+        "id": "6058166507489091982",
+        "baseUrl": "https://manga-starz.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaStorm",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangastorm",
+    "apk": "tachiyomi-ar.mangastorm-v1.4.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaStorm",
+        "lang": "ar",
+        "id": "1541167330805979817",
+        "baseUrl": "https://mangastorm.org"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaSwat",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
+    "apk": "tachiyomi-ar.mangaswat-v1.4.55.apk",
+    "lang": "ar",
+    "code": 55,
+    "version": "1.4.55",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaSwat",
+        "lang": "ar",
+        "id": "264168699090292138",
+        "baseUrl": "https://swatscans.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Tales",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangatales",
+    "apk": "tachiyomi-ar.mangatales-v1.4.3.apk",
+    "lang": "ar",
+    "code": 3,
+    "version": "1.4.3",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manga Tales",
+        "lang": "ar",
+        "id": "5218550345649535189",
+        "baseUrl": "https://www.mangatales.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Time",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangatime",
+    "apk": "tachiyomi-ar.mangatime-v1.4.39.apk",
+    "lang": "ar",
+    "code": 39,
+    "version": "1.4.39",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manga Time",
+        "lang": "ar",
+        "id": "3179348935869327174",
+        "baseUrl": "https://mangatime.us"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Trend",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangatrend",
+    "apk": "tachiyomi-ar.mangatrend-v1.4.30.apk",
+    "lang": "ar",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manga Trend",
+        "lang": "ar",
+        "id": "3509183087698743427",
+        "baseUrl": "https://mangaatrend.net"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manhatok",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.manhatok",
+    "apk": "tachiyomi-ar.manhatok-v1.4.10.apk",
+    "lang": "ar",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manhatok",
+        "lang": "ar",
+        "id": "743599002989616408",
+        "baseUrl": "https://manhatok.blogspot.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Niji Translations",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.nijitranslations",
+    "apk": "tachiyomi-ar.nijitranslations-v1.4.39.apk",
+    "lang": "ar",
+    "code": 39,
+    "version": "1.4.39",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Niji Translations",
+        "lang": "ar",
+        "id": "2102294221965772686",
+        "baseUrl": "https://niji-translations.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: NoonScan",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.noonscan",
+    "apk": "tachiyomi-ar.noonscan-v1.4.30.apk",
+    "lang": "ar",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "نون سكان",
+        "lang": "ar",
+        "id": "8847288110497505134",
+        "baseUrl": "https://noonscan.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Olaoe",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.olaoe",
+    "apk": "tachiyomi-ar.olaoe-v1.4.38.apk",
+    "lang": "ar",
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Olaoe",
+        "lang": "ar",
+        "id": "6505349724663768497",
+        "baseUrl": "https://olaoe.cyou"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Onma",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.onma",
+    "apk": "tachiyomi-ar.onma-v1.4.12.apk",
+    "lang": "ar",
+    "code": 12,
+    "version": "1.4.12",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "مانجا اون لاين",
+        "lang": "ar",
+        "id": "335499577904379512",
+        "baseUrl": "https://onma.top"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: RE Manga (Arabic)",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.remangaarabic",
+    "apk": "tachiyomi-ar.remangaarabic-v1.4.2.apk",
+    "lang": "ar",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "RE Manga",
+        "lang": "ar",
+        "id": "3856301446711562004",
+        "baseUrl": "https://re-manga.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Rocks Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.rocksmanga",
+    "apk": "tachiyomi-ar.rocksmanga-v1.4.40.apk",
+    "lang": "ar",
+    "code": 40,
+    "version": "1.4.40",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Rocks Manga",
+        "lang": "ar",
+        "id": "3301038340499911137",
+        "baseUrl": "https://rocksmanga.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Scans 4u",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.scans4u",
+    "apk": "tachiyomi-ar.scans4u-v1.4.12.apk",
+    "lang": "ar",
+    "code": 12,
+    "version": "1.4.12",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Scans 4u",
+        "lang": "ar",
+        "id": "2102721599186482805",
+        "baseUrl": "https://4uscans.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Shqqaa Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.shqqaa",
+    "apk": "tachiyomi-ar.shqqaa-v1.4.2.apk",
+    "lang": "ar",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "مانجا شقاع",
+        "lang": "ar",
+        "id": "6262106764679184511",
+        "baseUrl": "https://www.shqqaa.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: StellarSaber",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.stellarsaber",
+    "apk": "tachiyomi-ar.stellarsaber-v1.4.30.apk",
+    "lang": "ar",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "StellarSaber",
+        "lang": "ar",
+        "id": "2142158598125421915",
+        "baseUrl": "https://stellarsaber.pro"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Team X",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.teamx",
+    "apk": "tachiyomi-ar.teamx-v1.4.19.apk",
+    "lang": "ar",
+    "code": 19,
+    "version": "1.4.19",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Team X",
+        "lang": "ar",
+        "id": "4110737012647435874",
+        "baseUrl": "https://olympustaff.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Vex Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.vexmanga",
+    "apk": "tachiyomi-ar.vexmanga-v1.4.33.apk",
+    "lang": "ar",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "فيكس مانجا",
+        "lang": "ar",
+        "id": "4799422441662896170",
+        "baseUrl": "https://vexmanga.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Yokai",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.yokai",
+    "apk": "tachiyomi-ar.yokai-v1.4.11.apk",
+    "lang": "ar",
+    "code": 11,
+    "version": "1.4.11",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Yokai",
+        "lang": "ar",
+        "id": "4337506350787725909",
+        "baseUrl": "https://yokai-team.blogspot.com"
+      }
+    ]
+  }
+    ]
