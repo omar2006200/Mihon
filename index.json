@@ -1,0 +1,70 @@
+[
+ {
+    "name": "Tachiyomi: مانجا العاشق",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.manga3asq",
+    "apk": "tachiyomi-ar.manga3asq-v1.4.44.apk",
+    "lang": "ar",
+    "code": 44,
+    "version": "1.4.44",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "مانجا العاشق",
+        "lang": "ar",
+        "id": "1073624495230267708",
+        "baseUrl": "https://3asq.org"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: أريا مانجا",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.areascans",
+    "apk": "tachiyomi-ar.areascans-v1.4.32.apk",
+    "lang": "ar",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "أريا مانجا",
+        "lang": "ar",
+        "id": "241593018172482505",
+        "baseUrl": "https://ar.areascans.org"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ازورا مانجا",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.azora",
+    "apk": "tachiyomi-ar.azora-v1.4.50.apk",
+    "lang": "ar",
+    "code": 50,
+    "version": "1.4.50",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "ازورا مانجا",
+        "lang": "ar",
+        "id": "3544999809861403189",
+        "baseUrl": "https://azoramoon.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Dilar",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.dilar",
+    "apk": "tachiyomi-ar.dilar-v1.4.6.apk",
+    "lang": "ar",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Dilar",
+        "lang": "ar",
+        "id": "6272541812251031526",
+        "baseUrl": "https://dilar.tube#, https://golden.rest"
+      }
+    ]
+  }
+]
