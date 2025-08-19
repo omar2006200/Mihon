@@ -4,7 +4,7 @@
     "pkg": "eu.kanade.tachiyomi.extension.ar.manga3asq",
     "apk": "tachiyomi-ar.manga3asq-v1.4.44.apk",
     "lang": "ar",
-    "code": 44,
+    "code": 1,
     "version": "1.4.44",
     "nsfw": 0,
     "sources": [
@@ -21,7 +21,7 @@
     "pkg": "eu.kanade.tachiyomi.extension.ar.areascans",
     "apk": "tachiyomi-ar.areascans-v1.4.32.apk",
     "lang": "ar",
-    "code": 32,
+    "code": 2,
     "version": "1.4.32",
     "nsfw": 0,
     "sources": [
@@ -38,7 +38,7 @@
     "pkg": "eu.kanade.tachiyomi.extension.ar.azora",
     "apk": "tachiyomi-ar.azora-v1.4.50.apk",
     "lang": "ar",
-    "code": 50,
+    "code": 3,
     "version": "1.4.50",
     "nsfw": 0,
     "sources": [
@@ -55,7 +55,7 @@
     "pkg": "eu.kanade.tachiyomi.extension.ar.dilar",
     "apk": "tachiyomi-ar.dilar-v1.4.6.apk",
     "lang": "ar",
-    "code": 6,
+    "code": 4,
     "version": "1.4.6",
     "nsfw": 0,
     "sources": [
